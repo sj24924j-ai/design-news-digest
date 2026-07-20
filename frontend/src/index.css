@@ -1,0 +1,41 @@
+:root {
+  --color-bg: #faf8f4;
+  --color-surface: #ffffff;
+  --color-text: #1f2933;
+  --color-text-muted: #6b7280;
+  --color-border: #e5e0d8;
+  --color-accent: #b5652f;
+  --color-tag-bg: #f1e9dd;
+  --color-tag-text: #7a5a34;
+
+  color-scheme: light dark;
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", "Yu Gothic",
+    "Segoe UI", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #16181c;
+    --color-surface: #1f2228;
+    --color-text: #eceff1;
+    --color-text-muted: #9aa4af;
+    --color-border: #33373f;
+    --color-accent: #e0935a;
+    --color-tag-bg: #2b2620;
+    --color-tag-text: #e0c39a;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+a {
+  color: inherit;
+}
