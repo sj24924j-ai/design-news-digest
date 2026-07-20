@@ -8,7 +8,8 @@
   sustainable_material    素材・サステナブル
 """
 
-# 固定RSSフィード購読先。
+# 固定RSSフィード購読先。日本語ソースをメインとする方針のため、日本語メディアのみを採用する
+# （英語圏メディアは原則キーワード検索側でも日本語記事のみ拾うようフィルタしている）。
 # 実装時に疎通確認済みのものを採用。カバーしきれない分野は KEYWORD_QUERIES で補完する。
 # 未決事項（requirements.md 13章）: 最終的な購読メディアは本人ヒアリング後に見直す。
 FIXED_FEEDS = [
@@ -16,16 +17,6 @@ FIXED_FEEDS = [
         "name": "AXIS",
         "url": "https://www.axismag.jp/feed/",
         "categories": ["space_design", "architecture_interior"],
-    },
-    {
-        "name": "designboom",
-        "url": "https://www.designboom.com/feed/",
-        "categories": ["architecture_interior", "space_design"],
-    },
-    {
-        "name": "Dezeen",
-        "url": "https://www.dezeen.com/feed/",
-        "categories": ["architecture_interior", "sustainable_material"],
     },
     {
         "name": "10+1 website",
@@ -36,6 +27,11 @@ FIXED_FEEDS = [
         "name": "大阪・関西万博公式ニュース",
         "url": "https://www.expo2025.or.jp/feed/",
         "categories": ["exhibition_expo"],
+    },
+    {
+        "name": "丹青社",
+        "url": "https://www.tanseisha.co.jp/feed/",
+        "categories": ["space_design"],
     },
 ]
 

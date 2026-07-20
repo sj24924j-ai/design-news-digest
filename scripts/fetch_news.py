@@ -35,6 +35,13 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_ROOT / "frontend" / "public" / "data"
 
 TAG_RE = re.compile(r"<[^>]+>")
+# ひらがな・カタカナ・漢字のいずれかを含むかで日本語記事かどうかを判定する。
+# 「メインは日本の情報」という方針のため、英語のみの記事（海外メディアの原文等）は除外する。
+JAPANESE_CHAR_RE = re.compile(r"[぀-ヿ一-鿿]")
+
+
+def is_japanese(text: str) -> bool:
+    return bool(JAPANESE_CHAR_RE.search(text))
 
 
 def clean_text(raw: str) -> str:
@@ -97,7 +104,7 @@ def build_article(entry, source_name, source_type, categories, matched_keyword=N
     if not url:
         return None
     title = clean_text(entry.get("title", ""))
-    if not title:
+    if not title or not is_japanese(title):
         return None
     published = extract_published(entry)
     now = datetime.now(JST)
