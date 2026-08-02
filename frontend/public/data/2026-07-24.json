@@ -11,7 +11,7 @@
     "summary": "「賃貸住宅フェア2026」7月29日、30日開催！～賃貸業界最大級の展示会。200を超える企業出典と、さまざまな内容のセミナーも 健美家",
     "thumbnail_url": null,
     "published_at": "2026-07-24T23:08:53+09:00",
-    "fetched_at": "2026-08-02T08:47:21.696714+09:00",
+    "fetched_at": "2026-08-03T08:44:42.825107+09:00",
     "matched_keywords": [
       "展示会 業界 動向"
     ]
@@ -96,7 +96,7 @@
     "summary": "丹青社 池袋で涼感スポット設置の社会実験「涼感プレイスプロジェクト」実施 プリント&プロモーション",
     "thumbnail_url": null,
     "published_at": "2026-07-24T18:23:52+09:00",
-    "fetched_at": "2026-08-02T08:47:18.680825+09:00",
+    "fetched_at": "2026-08-03T08:44:39.902467+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -131,7 +131,7 @@
     "summary": "DANAGOは、ベトナムMICE博覧会2026の代表団から絶大な支持を得ました。 Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-07-24T17:38:32+09:00",
-    "fetched_at": "2026-08-02T08:47:22.650615+09:00",
+    "fetched_at": "2026-08-03T08:44:43.857060+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -165,7 +165,7 @@
     "summary": "企画展「いのちの未来＋」鑑賞レポート。万博と何が違う？ 石黒浩とイシグロイドが見どころを紹介【ネタバレあり】 トラベル Watch",
     "thumbnail_url": null,
     "published_at": "2026-07-24T16:00:00+09:00",
-    "fetched_at": "2026-08-02T08:47:22.168300+09:00",
+    "fetched_at": "2026-08-03T08:44:43.390805+09:00",
     "matched_keywords": [
       "万博 パビリオン"
     ]
@@ -216,7 +216,7 @@
     "summary": "２６～３０年度 観光振興計画策定 倉敷市 ＭＩＣＥ誘致強化 山陽新聞",
     "thumbnail_url": null,
     "published_at": "2026-07-24T16:00:00+09:00",
-    "fetched_at": "2026-08-02T08:47:22.650702+09:00",
+    "fetched_at": "2026-08-03T08:44:43.857150+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -234,9 +234,26 @@
     "summary": "ファンケル、新たなグローバル店舗コンセプトとデザインを海外で展開 2026年7月に香港と上海で新店舗をオープン 毎日キレイ",
     "thumbnail_url": null,
     "published_at": "2026-07-24T16:00:00+09:00",
-    "fetched_at": "2026-08-02T08:47:20.181656+09:00",
+    "fetched_at": "2026-08-03T08:44:41.269388+09:00",
     "matched_keywords": [
       "商業施設 デザイン"
+    ]
+  },
+  {
+    "id": "c1412b6cbe29500c",
+    "title": "崇城大で仮想空間デザインコンテスト - 熊本日日新聞社",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PdGRtVm9HaWVLd1VtZ0M1ZWhlQnN6S2tFZmt2OG9zWEJkZGYtNmEwVThyd3QzZnQ3N09wYXV0akJFSXIxWmpWa2tUcTNyTm8?oc=5",
+    "source_name": "熊本日日新聞社",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "崇城大で仮想空間デザインコンテスト 熊本日日新聞社",
+    "thumbnail_url": null,
+    "published_at": "2026-07-24T16:00:00+09:00",
+    "fetched_at": "2026-08-03T08:44:40.372804+09:00",
+    "matched_keywords": [
+      "空間デザイン"
     ]
   },
   {
@@ -270,7 +287,7 @@
     "summary": "アウトドア家具ブランドのSKLD Studioは、スペイン・バレンシア生まれのデザイナー、Eli Gutiérrezが手がける「KOROコレクション」の新作として、屋外用ランプ「KORO」を発表した。日本文化と伝統的な香 […]",
     "thumbnail_url": null,
     "published_at": "2026-07-24T14:10:10+09:00",
-    "fetched_at": "2026-08-02T08:47:15.032473+09:00",
+    "fetched_at": "2026-08-03T08:44:35.880761+09:00",
     "matched_keywords": []
   },
   {
@@ -305,23 +322,6 @@
     "fetched_at": "2026-08-01T08:47:02.832024+09:00",
     "matched_keywords": [
       "MICE 展示会"
-    ]
-  },
-  {
-    "id": "c1412b6cbe29500c",
-    "title": "崇城大で仮想空間デザインコンテスト - 熊本日日新聞社",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PdGRtVm9HaWVLd1VtZ0M1ZWhlQnN6S2tFZmt2OG9zWEJkZGYtNmEwVThyd3QzZnQ3N09wYXV0akJFSXIxWmpWa2tUcTNyTm8?oc=5",
-    "source_name": "熊本日日新聞社",
-    "source_type": "keyword_search",
-    "categories": [
-      "space_design"
-    ],
-    "summary": "崇城大で仮想空間デザインコンテスト 熊本日日新聞社",
-    "thumbnail_url": null,
-    "published_at": "2026-07-24T11:42:04+09:00",
-    "fetched_at": "2026-08-02T08:47:19.240457+09:00",
-    "matched_keywords": [
-      "空間デザイン"
     ]
   },
   {
