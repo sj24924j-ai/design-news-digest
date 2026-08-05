@@ -11,7 +11,7 @@
     "summary": "丹青社が参画する「池袋エリアプラットフォーム」が産官学民連携の社会実験「涼感プレイスプロジェクト」を実施 北海道新聞デジタル",
     "thumbnail_url": null,
     "published_at": "2026-07-26T21:41:28+09:00",
-    "fetched_at": "2026-08-02T08:47:18.680388+09:00",
+    "fetched_at": "2026-08-06T08:41:04.493316+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -79,7 +79,7 @@
     "summary": "沖縄MICEネットワークが総会 昨年度の事業報告 QAB 琉球朝日放送",
     "thumbnail_url": null,
     "published_at": "2026-07-26T18:00:22+09:00",
-    "fetched_at": "2026-08-05T08:48:49.847827+09:00",
+    "fetched_at": "2026-08-06T08:41:08.331893+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -102,23 +102,6 @@
     ]
   },
   {
-    "id": "9b4e73da95fb8396",
-    "title": "沖縄MICEネットワークが総会 昨年度の事業報告 - ｄメニューニュース",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YVEh0RFJHazZBdXVENWJ0dVlpWGw5R0RVT0EzdmFQMVpUSGJGZ2c5NlFDQzNwSVMtYWVNU3FCVlZSc1QzZXVJaFNZbnRxMzRZeUFScnpGZVdnUG55ZFRtaWJ1eFg1blpPdDVFZE1R0gFzQVVfeXFMTjZUT2k3NUpCOGtQUzhWb29UVF9ORUlCcDluaTNuZm9qR051TEJhSENkc3ViaUF2TW8zSUlkZHdkVjlpNXJwWkNWQjBzY0E2WGZjbk1wOE9oemdBSVZqYUJNTmh4Y2RYMFJ0NllJWF9WMnc5UQ?oc=5",
-    "source_name": "ｄメニューニュース",
-    "source_type": "keyword_search",
-    "categories": [
-      "exhibition_expo"
-    ],
-    "summary": "沖縄MICEネットワークが総会 昨年度の事業報告 ｄメニューニュース",
-    "thumbnail_url": null,
-    "published_at": "2026-07-26T17:50:00+09:00",
-    "fetched_at": "2026-08-05T08:48:49.848286+09:00",
-    "matched_keywords": [
-      "MICE 展示会"
-    ]
-  },
-  {
     "id": "74a41a5b52db80fe",
     "title": "ベトナムの観光関連企業にとっての協力機会を拡大する。 - Vietnam.vn",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODE2dTZjSXhwSlFoWThmWFM4ZFdrcXdSaTFQcTlZUGlsU0VabUwxOWFTTjZGaWNMdlZOcnpVYWJqa0lSd0FVc0NoNGxOTWFXdjZ3X2tUcGNmSUxfVzJYenFRU3ktMnA5U1FhOFFiWUxjOF9qaDlTVl9rQWtpSkd0cEd6YTM0RnZMVlE?oc=5",
@@ -131,6 +114,23 @@
     "thumbnail_url": null,
     "published_at": "2026-07-26T16:51:29+09:00",
     "fetched_at": "2026-08-03T08:44:43.857989+09:00",
+    "matched_keywords": [
+      "MICE 展示会"
+    ]
+  },
+  {
+    "id": "9b4e73da95fb8396",
+    "title": "沖縄MICEネットワークが総会 昨年度の事業報告 - ｄメニューニュース",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YVEh0RFJHazZBdXVENWJ0dVlpWGw5R0RVT0EzdmFQMVpUSGJGZ2c5NlFDQzNwSVMtYWVNU3FCVlZSc1QzZXVJaFNZbnRxMzRZeUFScnpGZVdnUG55ZFRtaWJ1eFg1blpPdDVFZE1R0gFzQVVfeXFMTjZUT2k3NUpCOGtQUzhWb29UVF9ORUlCcDluaTNuZm9qR051TEJhSENkc3ViaUF2TW8zSUlkZHdkVjlpNXJwWkNWQjBzY0E2WGZjbk1wOE9oemdBSVZqYUJNTmh4Y2RYMFJ0NllJWF9WMnc5UQ?oc=5",
+    "source_name": "ｄメニューニュース",
+    "source_type": "keyword_search",
+    "categories": [
+      "exhibition_expo"
+    ],
+    "summary": "沖縄MICEネットワークが総会 昨年度の事業報告 ｄメニューニュース",
+    "thumbnail_url": null,
+    "published_at": "2026-07-26T16:00:00+09:00",
+    "fetched_at": "2026-08-06T08:41:08.332323+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
