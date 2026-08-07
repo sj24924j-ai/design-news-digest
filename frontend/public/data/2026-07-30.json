@@ -11,7 +11,7 @@
     "summary": "落合陽一の「null²ⁿ」横浜ランドマークタワーに10月14日グランドオープン！万博“ﾇﾙの森”が常設化（ウォーカープラス） Yahoo!ニュース",
     "thumbnail_url": null,
     "published_at": "2026-07-30T18:00:00+09:00",
-    "fetched_at": "2026-08-06T08:41:07.888678+09:00",
+    "fetched_at": "2026-08-07T13:36:20.202602+09:00",
     "matched_keywords": [
       "万博 パビリオン"
     ]
@@ -28,7 +28,7 @@
     "summary": "建材業界の常識を破るリビエラが仕掛ける循環型モデル coki.jp",
     "thumbnail_url": null,
     "published_at": "2026-07-30T17:23:58+09:00",
-    "fetched_at": "2026-08-06T08:41:08.679644+09:00",
+    "fetched_at": "2026-08-07T13:36:20.935274+09:00",
     "matched_keywords": [
       "サステナブル建材"
     ]
@@ -85,6 +85,40 @@
     ]
   },
   {
+    "id": "8aae04e0495035f0",
+    "title": "河北新報社 ビズラボ 河北経済研究所 - 河北新報オンライン",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EV2M4VkhWdWViQ096RE54S29WTDBKQnExMGZNOXk3MjJ5SFdWcDlFYVBycXE3MVpmc0owcnlGQ05HSjRqUk85Tl8xeTh5cllhb0Y5TGllRlloZVozOHVOOHpHM2U0UQ?oc=5",
+    "source_name": "河北新報オンライン",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "河北新報社 ビズラボ 河北経済研究所 河北新報オンライン",
+    "thumbnail_url": null,
+    "published_at": "2026-07-30T16:00:00+09:00",
+    "fetched_at": "2026-08-07T13:36:17.015752+09:00",
+    "matched_keywords": [
+      "丹青社"
+    ]
+  },
+  {
+    "id": "53f356518a4b4ac2",
+    "title": "自動車内装材市場規模、シェア、成長率、2034年 - Straits Research",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxel9pWkFCNEdSRGREQzhYa1dHd0JhVGNCN2VBWnQ4cGpBaC1PRlg0T1BDTVpCZ0g3djZrc0xnbnZMSjZEQ3IzV1FMaDF1WUVaQ0d4aHByUmhuQ1g0STF2RWJvQzNWM3FiYTlQQV91Y3kycEV5dU85c0Jkem5XZw?oc=5",
+    "source_name": "Straits Research",
+    "source_type": "keyword_search",
+    "categories": [
+      "sustainable_material"
+    ],
+    "summary": "自動車内装材市場規模、シェア、成長率、2034年 Straits Research",
+    "thumbnail_url": null,
+    "published_at": "2026-07-30T16:00:00+09:00",
+    "fetched_at": "2026-08-07T13:36:21.378714+09:00",
+    "matched_keywords": [
+      "新素材 内装"
+    ]
+  },
+  {
     "id": "78ca87b4d38b8361",
     "title": "那覇基地サマーフェスタ2026、熊本地震で中止に - event-marketing.co.jp",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtQVFodmJSanhIb0lDVjhJcEFZOVFTWnAzMmJNZUs0aldXQXViY043OUxPb0tEcmo1WTdaRlZZSkFHNi1fdUpndDdTOG1lX1ZmajRkbW5nNXFhZGVrOEs3eTBVZEtsNmFMZUVBNXUyUVZSTzZPaW02WldR?oc=5",
@@ -131,7 +165,7 @@
     "summary": "国民年金協会（KELA） Photo: Tuomas Uusheimo, Helsinki Partners アイノ、エリッサ、そしてアルヴァ・アアルトが設計したフィンランド国内の建築群が、ユネスコ世界遺産リストに登録さ […]",
     "thumbnail_url": null,
     "published_at": "2026-07-30T15:01:19+09:00",
-    "fetched_at": "2026-08-06T08:41:00.269689+09:00",
+    "fetched_at": "2026-08-07T13:36:13.193111+09:00",
     "matched_keywords": []
   },
   {
@@ -163,7 +197,7 @@
     "summary": "丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」を販売開始 日本経済新聞",
     "thumbnail_url": null,
     "published_at": "2026-07-30T13:45:31+09:00",
-    "fetched_at": "2026-08-06T08:41:04.492318+09:00",
+    "fetched_at": "2026-08-07T13:36:17.014441+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -204,19 +238,36 @@
   },
   {
     "id": "e325079916eaa0d3",
-    "title": "建築トレンドに呼応し景観・空間価値を高める新光輝カラーなど、LIXILビル建材において新たに全16色のラインアップを展開 - agara.co.jp",
+    "title": "建築トレンドに呼応し景観・空間価値を高める新光輝カラーなど、LIXILビル建材において新たに全16色のラインアップを展開 - AGARA紀伊民報",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44YXBzcVJ4SkZCa2FrdW5FelVubzlESW5JU0xka3EzQnE2cGV1OFhIb2k1RVZ2aG5zWER5dElua0ZHSE9JNzYyd0JNU3JOaVE?oc=5",
-    "source_name": "agara.co.jp",
+    "source_name": "AGARA紀伊民報",
     "source_type": "keyword_search",
     "categories": [
       "architecture_interior"
     ],
-    "summary": "建築トレンドに呼応し景観・空間価値を高める新光輝カラーなど、LIXILビル建材において新たに全16色のラインアップを展開 agara.co.jp",
+    "summary": "建築トレンドに呼応し景観・空間価値を高める新光輝カラーなど、LIXILビル建材において新たに全16色のラインアップを展開 AGARA紀伊民報",
     "thumbnail_url": null,
     "published_at": "2026-07-30T13:00:00+09:00",
-    "fetched_at": "2026-08-06T08:41:06.434873+09:00",
+    "fetched_at": "2026-08-07T13:36:18.872078+09:00",
     "matched_keywords": [
       "建築デザイン トレンド"
+    ]
+  },
+  {
+    "id": "cb6296eb0d66d14d",
+    "title": "丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」の販売開始 写真1枚 国際ニュース - AFPBB News",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mcGVHcVhEbFNyWE5qQkFuSFF6TnpXQy0xb0VEdUJNN29BLVhUb1R6cW5VSnZNU0I3WmV4RkhZWWwxN0Z2bkJIT1ZVLURjTFF0dkE?oc=5",
+    "source_name": "AFPBB News",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」の販売開始 写真1枚 国際ニュース AFPBB News",
+    "thumbnail_url": null,
+    "published_at": "2026-07-30T12:02:35+09:00",
+    "fetched_at": "2026-08-07T13:36:17.015472+09:00",
+    "matched_keywords": [
+      "丹青社"
     ]
   },
   {
@@ -248,7 +299,7 @@
     "summary": "丹青社は、壁紙の土台となる裏打紙に古紙を100％使用した環境配慮型クロス「Re-PAPER WALL（リペーパーウォール）」を販売開始いたしました。まずは法人を対象に販売を進めるとともに、丹青社が手掛けるオフィスやホテル […]",
     "thumbnail_url": null,
     "published_at": "2026-07-30T11:00:36+09:00",
-    "fetched_at": "2026-08-06T08:41:03.417949+09:00",
+    "fetched_at": "2026-08-07T13:36:15.948530+09:00",
     "matched_keywords": []
   },
   {
@@ -270,17 +321,17 @@
   },
   {
     "id": "bae937d0a7993ee3",
-    "title": "写真：丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」の販売開始 - okinawatimes.co.jp",
+    "title": "写真：丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」の販売開始 - 沖縄タイムス社",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56QmI2SUJEV1JFaFJPNVZ3TENVcmhMTnpFQkpyZ1g3R0ZSaV9LRG1RMGhtTFdYLXB1R1d2Nmp6VFQ5b2hwY1U5bHo4aENpeTc1aE5pMWV2dXVQRnVmQWlLc0JoNFJPUQ?oc=5",
-    "source_name": "okinawatimes.co.jp",
+    "source_name": "沖縄タイムス社",
     "source_type": "keyword_search",
     "categories": [
       "space_design"
     ],
-    "summary": "写真：丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」の販売開始 okinawatimes.co.jp",
+    "summary": "写真：丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」の販売開始 沖縄タイムス社",
     "thumbnail_url": null,
     "published_at": "2026-07-30T11:00:00+09:00",
-    "fetched_at": "2026-08-06T08:41:04.493030+09:00",
+    "fetched_at": "2026-08-07T13:36:17.015365+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -304,17 +355,17 @@
   },
   {
     "id": "1ea597c2c6dcb97a",
-    "title": "プレスリリース：丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」の販売開始（Digital PR Platform） - 毎日新聞",
+    "title": "プレスリリース：丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」の販売開始（Digital PR Platform） - mainichi.jp",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rVUx1NkZYMUE3dnlzeks5MVpxdnkyM2RMRjBSV01jWmJmRV9HRU9IU3g0RHhJa3hwN1FQdWJMdUhVRGZjWllzSkszS2gwTVhwM1U5YXdWMjFZcG5SanhOY0NFdFI3cHYy?oc=5",
-    "source_name": "毎日新聞",
+    "source_name": "mainichi.jp",
     "source_type": "keyword_search",
     "categories": [
       "space_design"
     ],
-    "summary": "プレスリリース：丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」の販売開始（Digital PR Platform） 毎日新聞",
+    "summary": "プレスリリース：丹青社、裏打紙に古紙を使ったサステナブルクロス「Re-PAPER WALL」の販売開始（Digital PR Platform） mainichi.jp",
     "thumbnail_url": null,
     "published_at": "2026-07-30T11:00:00+09:00",
-    "fetched_at": "2026-08-06T08:41:04.492837+09:00",
+    "fetched_at": "2026-08-07T13:36:17.015081+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -365,7 +416,7 @@
     "summary": "京都で外国人観光客の迷惑行動が相次ぐ本当の理由と空間デザインの課題 Forbes JAPAN",
     "thumbnail_url": null,
     "published_at": "2026-07-30T07:15:00+09:00",
-    "fetched_at": "2026-08-06T08:41:04.964126+09:00",
+    "fetched_at": "2026-08-07T13:36:17.518336+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
