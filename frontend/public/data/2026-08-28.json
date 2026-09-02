@@ -100,7 +100,7 @@
     "summary": "大半のブランドにとって、一着の服の物語はユーザーの手にわたった瞬間に終わりとなる。レジを通り、タグが切られ、ショッパーに入って店を出ていく。あるいは、オンラインストアで決済をすれば、数日とかからず、あっという間に玄関に届 […]",
     "thumbnail_url": null,
     "published_at": "2026-08-28T14:24:37+09:00",
-    "fetched_at": "2026-09-02T07:42:05.735737+09:00",
+    "fetched_at": "2026-09-03T07:44:22.100836+09:00",
     "matched_keywords": []
   },
   {
@@ -116,7 +116,7 @@
     "summary": "ポルトガル・リスボンを拠点とするEVの新興企業Ambleは、初の車両となる電動バギー「Amble One」を発表した。Amble Oneは、短距離移動のために設計された軽量電動車両であり、クルマが入り込めない場所や、移動 […]",
     "thumbnail_url": null,
     "published_at": "2026-08-28T14:18:58+09:00",
-    "fetched_at": "2026-09-02T07:42:05.735767+09:00",
+    "fetched_at": "2026-09-03T07:44:22.100854+09:00",
     "matched_keywords": []
   },
   {
@@ -134,6 +134,23 @@
     "fetched_at": "2026-09-02T07:42:08.025013+09:00",
     "matched_keywords": [
       "乃村工藝社"
+    ]
+  },
+  {
+    "id": "5e9a3c8d153df297",
+    "title": "【10/9開催】空間設計・演出・素材・企画の41社が出展！選ばれる空間づくりのヒントが見つかる「空間プロデュース展2026」 - iza.ne.jp",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41M3M4ZjROMlpKMEdCQ0FPRHNZY0xaY1NRRm1TQ0lsUmxXbEVrdEJfZksxX3ZyRjdIaGpZWVNzcm9DcHNjM0VSMDVkUUZwUkJqbVYxVkYtTHZmekFEc25FY3NHTGpBdG01N0pxNjJjdkhtUWpyYUtOOWdR?oc=5",
+    "source_name": "iza.ne.jp",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "【10/9開催】空間設計・演出・素材・企画の41社が出展！選ばれる空間づくりのヒントが見つかる「空間プロデュース展2026」 iza.ne.jp",
+    "thumbnail_url": null,
+    "published_at": "2026-08-28T14:00:00+09:00",
+    "fetched_at": "2026-09-03T07:44:26.577864+09:00",
+    "matched_keywords": [
+      "空間デザイン"
     ]
   },
   {
@@ -165,7 +182,7 @@
     "summary": "ホーチミン市は、この地域における競争力の高いMICE（会議、報奨旅行、コンベンション、展示会）の中心地となることを目指している。 Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-08-28T12:27:33+09:00",
-    "fetched_at": "2026-09-02T07:42:12.493705+09:00",
+    "fetched_at": "2026-09-03T07:44:29.992808+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -267,7 +284,7 @@
     "summary": "【求人情報】幅広い分野の空間デザインを手がける株式会社I INが、シニアデザイナーなど3職種を募集 japandesign.ne.jp",
     "thumbnail_url": null,
     "published_at": "2026-08-28T09:00:00+09:00",
-    "fetched_at": "2026-09-02T07:42:09.026204+09:00",
+    "fetched_at": "2026-09-03T07:44:26.577692+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -318,7 +335,7 @@
     "summary": "ホーチミン市はMICE観光の地域拠点となることを目指しているが、どのような措置を講じるべきだろうか？ Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-08-28T03:15:37+09:00",
-    "fetched_at": "2026-09-02T07:42:12.493356+09:00",
+    "fetched_at": "2026-09-03T07:44:29.992601+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -335,7 +352,7 @@
     "summary": "ベトナムは、国際基準に匹敵するグリーンMICE基準を早急に策定する必要がある。 Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-08-28T02:08:49+09:00",
-    "fetched_at": "2026-09-02T07:42:12.493385+09:00",
+    "fetched_at": "2026-09-03T07:44:29.992911+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
