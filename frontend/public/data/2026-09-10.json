@@ -47,7 +47,7 @@
     "summary": "オルテリウス 「東インド図」 1570年 銅版印刷・手彩色 ゼンリンミュージアム所蔵 福岡県北九州市のゼンリンミュージアムは、企画展「魅せる地図 古地図×装飾×印刷」を9月12日（土）から12月25日（金）まで開催する。 […]",
     "thumbnail_url": null,
     "published_at": "2026-09-10T16:10:48+09:00",
-    "fetched_at": "2026-09-16T08:00:08.889163+09:00",
+    "fetched_at": "2026-09-17T08:06:01.487519+09:00",
     "matched_keywords": []
   },
   {
@@ -130,7 +130,7 @@
     "summary": "新素材・新技術の専門展示会「エヌプラス2026」11月11日から東京ビッグサイトで開催、事前来場登録を開始 ニコニコニュース",
     "thumbnail_url": null,
     "published_at": "2026-09-10T15:21:37+09:00",
-    "fetched_at": "2026-09-16T08:00:15.967805+09:00",
+    "fetched_at": "2026-09-17T08:06:08.673018+09:00",
     "matched_keywords": [
       "展示会 業界 動向"
     ]
@@ -164,7 +164,7 @@
     "summary": "ベトナム産業技術週間2026には2,000以上のブースが出展予定 Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-09-10T12:06:14+09:00",
-    "fetched_at": "2026-09-16T08:00:15.968196+09:00",
+    "fetched_at": "2026-09-17T08:06:08.673424+09:00",
     "matched_keywords": [
       "展示会 業界 動向"
     ]
@@ -199,7 +199,7 @@
     "summary": "建築設計とXR制作を手がけるくわやは、3D地図ダウンロードウェブアプリケーションサービス「ちずうつし」をリリースした。建築設計事務所、建設会社、建築学生などに向け、模型製作やイメージパース制作時に必要となる、計画敷地周辺 […]",
     "thumbnail_url": null,
     "published_at": "2026-09-10T11:45:59+09:00",
-    "fetched_at": "2026-09-16T08:00:08.889192+09:00",
+    "fetched_at": "2026-09-17T08:06:01.487538+09:00",
     "matched_keywords": []
   },
   {
@@ -238,34 +238,35 @@
   },
   {
     "id": "16b7820e12a252cf",
-    "title": "最先端テクノロジーとローカルインダストリーが融合した「HAERA」の空間デザイン | まちづくり | 建築・設計関連コラム - LIXIL ビジネス情報",
+    "title": "最先端テクノロジーとローカルインダストリーが融合した「HAERA」の空間デザイン | まちづくり | 建築・設計関連コラム - biz-lixil.com",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lQzB5bmw4UHlTeFRweHR4MGlZMWdFTlpKTHYzcDF1WGUwUnF5ZDhFRV9pS3pwc3lRZUxRUHVhb3I2b2g2X29kX2tjUXlXczZRUHo2SHl2Ry12RDlHdEpoWlJxMmdEYlFUSkpFag?oc=5",
-    "source_name": "LIXIL ビジネス情報",
+    "source_name": "biz-lixil.com",
     "source_type": "keyword_search",
     "categories": [
-      "space_design"
+      "space_design",
+      "architecture_interior"
     ],
-    "summary": "最先端テクノロジーとローカルインダストリーが融合した「HAERA」の空間デザイン | まちづくり | 建築・設計関連コラム LIXIL ビジネス情報",
+    "summary": "最先端テクノロジーとローカルインダストリーが融合した「HAERA」の空間デザイン | まちづくり | 建築・設計関連コラム biz-lixil.com",
     "thumbnail_url": null,
     "published_at": "2026-09-10T00:00:00+09:00",
-    "fetched_at": "2026-09-16T08:00:13.287221+09:00",
+    "fetched_at": "2026-09-17T08:06:07.167812+09:00",
     "matched_keywords": [
-      "空間デザイン"
+      "商業施設 デザイン"
     ]
   },
   {
     "id": "5d6532836125555a",
-    "title": "なぜ人は広告だけでは動かないのか - 日経クロストレンド",
+    "title": "なぜ人は広告だけでは動かないのか - xtrend.nikkei.com",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OV2ZIWFlpYndzMkJaTF95QkxqTkg4eTlHY2hsZU5IbF8xajlFa1g5VWhIMjB1STB2TEZlbDlxX0dacHBPN2J3ajVnLVRxYTN0enNxSDIzWEYxRGRaeVZ3bmpqLVhyZw?oc=5",
-    "source_name": "日経クロストレンド",
+    "source_name": "xtrend.nikkei.com",
     "source_type": "keyword_search",
     "categories": [
       "architecture_interior"
     ],
-    "summary": "なぜ人は広告だけでは動かないのか 日経クロストレンド",
+    "summary": "なぜ人は広告だけでは動かないのか xtrend.nikkei.com",
     "thumbnail_url": null,
     "published_at": "2026-09-10T00:00:00+09:00",
-    "fetched_at": "2026-09-16T08:00:14.867219+09:00",
+    "fetched_at": "2026-09-17T08:06:07.650816+09:00",
     "matched_keywords": [
       "建築デザイン トレンド"
     ]
