@@ -63,7 +63,7 @@
     "summary": "東京・墨田区のゴム印メーカー、東京製版は、ゴジラをテーマにした新商品「Rubber Stamp Collection GODZILLA ゴジラフォント」「Rubber Stamp Collection GODZILLA […]",
     "thumbnail_url": null,
     "published_at": "2026-09-16T18:56:11+09:00",
-    "fetched_at": "2026-09-26T08:22:33.565764+09:00",
+    "fetched_at": "2026-09-27T08:02:42.941579+09:00",
     "matched_keywords": []
   },
   {
@@ -113,7 +113,7 @@
     "summary": "＜金魚酒 命名 緋桃＞2026年 初発表作品 名古屋市にある大正時代の豪商の邸宅だった文化のみち橦木館で「深堀隆介展―『金魚の唄』（きんぎょのうた）―山田憲司・北川啓介との共創」が、9月18日（金）から10月25日（日） […]",
     "thumbnail_url": null,
     "published_at": "2026-09-16T16:51:03+09:00",
-    "fetched_at": "2026-09-26T08:22:33.565794+09:00",
+    "fetched_at": "2026-09-27T08:02:42.941607+09:00",
     "matched_keywords": []
   },
   {
@@ -145,9 +145,43 @@
     "summary": "ダナン市は、MICE（会議、報奨旅行、コンベンション、展示会）のプロモーション活動において革新的な取り組みを行っている。 Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-09-16T16:00:00+09:00",
-    "fetched_at": "2026-09-26T08:22:41.125099+09:00",
+    "fetched_at": "2026-09-27T08:02:49.658686+09:00",
     "matched_keywords": [
       "MICE 展示会"
+    ]
+  },
+  {
+    "id": "8a4fe5a66c165fc5",
+    "title": "橋本花菜さんが「モノ・空間デザイン学生プレゼンテーション」で最優秀賞を受賞 - kyusan-u.ac.jp",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GY0VMTE51blhYUHRJcTR6YjJtc1pIelB1T2pBeW8yS09VX19JR3BUcHdnZUp5VDJDaGZSUmFGY3drQVN1ek5BbTY0SFV1M3NQR1RDNldkRGVrT2VBWkZVWXVBOUhURHFZZTlrVTdB?oc=5",
+    "source_name": "kyusan-u.ac.jp",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "橋本花菜さんが「モノ・空間デザイン学生プレゼンテーション」で最優秀賞を受賞 kyusan-u.ac.jp",
+    "thumbnail_url": null,
+    "published_at": "2026-09-16T16:00:00+09:00",
+    "fetched_at": "2026-09-27T08:02:46.368812+09:00",
+    "matched_keywords": [
+      "空間デザイン"
+    ]
+  },
+  {
+    "id": "19f4807a5c02dd56",
+    "title": "タイルの名古屋モザイク工業 「タイルのトレンドコラム」vol.48・49公開のお知らせ - Newscast.jp",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hN004WU9hekxHbmlwYVQtMk1RbW5QLXhVWUIyZGhacWQ5OFdoUnV2SW9HclNYNkp6SVpObEhWQklpVHJ0VVNv?oc=5",
+    "source_name": "Newscast.jp",
+    "source_type": "keyword_search",
+    "categories": [
+      "architecture_interior"
+    ],
+    "summary": "タイルの名古屋モザイク工業 「タイルのトレンドコラム」vol.48・49公開のお知らせ Newscast.jp",
+    "thumbnail_url": null,
+    "published_at": "2026-09-16T16:00:00+09:00",
+    "fetched_at": "2026-09-27T08:02:47.748880+09:00",
+    "matched_keywords": [
+      "建築デザイン トレンド"
     ]
   },
   {
@@ -162,7 +196,7 @@
     "summary": "MICE観光――ホーチミン市が観光客をより長く滞在させ、消費額を増やすための「鍵」。 Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-09-16T15:52:01+09:00",
-    "fetched_at": "2026-09-26T08:22:41.126715+09:00",
+    "fetched_at": "2026-09-27T08:02:49.659963+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -182,23 +216,6 @@
     "fetched_at": "2026-09-19T07:42:50.525813+09:00",
     "matched_keywords": [
       "乃村工藝社"
-    ]
-  },
-  {
-    "id": "8a4fe5a66c165fc5",
-    "title": "橋本花菜さんが「モノ・空間デザイン学生プレゼンテーション」で最優秀賞を受賞 - kyusan-u.ac.jp",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GY0VMTE51blhYUHRJcTR6YjJtc1pIelB1T2pBeW8yS09VX19JR3BUcHdnZUp5VDJDaGZSUmFGY3drQVN1ek5BbTY0SFV1M3NQR1RDNldkRGVrT2VBWkZVWXVBOUhURHFZZTlrVTdB?oc=5",
-    "source_name": "kyusan-u.ac.jp",
-    "source_type": "keyword_search",
-    "categories": [
-      "space_design"
-    ],
-    "summary": "橋本花菜さんが「モノ・空間デザイン学生プレゼンテーション」で最優秀賞を受賞 kyusan-u.ac.jp",
-    "thumbnail_url": null,
-    "published_at": "2026-09-16T15:08:33+09:00",
-    "fetched_at": "2026-09-26T08:22:37.692809+09:00",
-    "matched_keywords": [
-      "空間デザイン"
     ]
   },
   {
@@ -270,23 +287,6 @@
     ]
   },
   {
-    "id": "19f4807a5c02dd56",
-    "title": "タイルの名古屋モザイク工業 「タイルのトレンドコラム」vol.48・49公開のお知らせ - Newscast.jp",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hN004WU9hekxHbmlwYVQtMk1RbW5QLXhVWUIyZGhacWQ5OFdoUnV2SW9HclNYNkp6SVpObEhWQklpVHJ0VVNv?oc=5",
-    "source_name": "Newscast.jp",
-    "source_type": "keyword_search",
-    "categories": [
-      "architecture_interior"
-    ],
-    "summary": "タイルの名古屋モザイク工業 「タイルのトレンドコラム」vol.48・49公開のお知らせ Newscast.jp",
-    "thumbnail_url": null,
-    "published_at": "2026-09-16T12:00:00+09:00",
-    "fetched_at": "2026-09-26T08:22:39.159544+09:00",
-    "matched_keywords": [
-      "建築デザイン トレンド"
-    ]
-  },
-  {
     "id": "f9e4ff01bf0c1318",
     "title": "成形合板の技術を現場で学ぶ 家具空間デザインスタジオの学生が天童木工本社工場を視察 - kyusan-u.ac.jp",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PekotMDdqN3lZUGN1ZWRhSFRXaUhUa040NUxTbkVUU2tvY0dGVFdVcEx5NTR5aGdfRUNjelY5MVVDYjh6MWVxSnFnTWpOakw4QTZfd0g5MkZWUDl2Rno5T2o5YzNCbTI3UmpF?oc=5",
@@ -298,7 +298,7 @@
     "summary": "成形合板の技術を現場で学ぶ 家具空間デザインスタジオの学生が天童木工本社工場を視察 kyusan-u.ac.jp",
     "thumbnail_url": null,
     "published_at": "2026-09-16T10:18:59+09:00",
-    "fetched_at": "2026-09-26T08:22:37.693176+09:00",
+    "fetched_at": "2026-09-27T08:02:46.369132+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -390,17 +390,17 @@
   },
   {
     "id": "e0a5d2e974033d20",
-    "title": "GARDEが空間デザインに携わった2プロジェクトが4つの国際デザインアワードで受賞 - mantan-web.jp",
+    "title": "GARDEが空間デザインに携わった2プロジェクトが4つの国際デザインアワードで受賞 - MANTANWEB",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjNvNFpMWU11YndUREJkZnR5NzBJeWY5VUJPTi1RSWx3MmpHLW1uY3BmU3ZrSTlSbF9sVlg0bEJIa1JYYThNSXBkQUVZSEdOR0E0cWR4TmJ3RGZyVnRkam1OLVkwZG44dk1PT014TmVsay1waEhKOGZ4eXowYmMzZ19iV2JYajRr?oc=5",
-    "source_name": "mantan-web.jp",
+    "source_name": "MANTANWEB",
     "source_type": "keyword_search",
     "categories": [
       "space_design"
     ],
-    "summary": "GARDEが空間デザインに携わった2プロジェクトが4つの国際デザインアワードで受賞 mantan-web.jp",
+    "summary": "GARDEが空間デザインに携わった2プロジェクトが4つの国際デザインアワードで受賞 MANTANWEB",
     "thumbnail_url": null,
     "published_at": "2026-09-16T00:31:46+09:00",
-    "fetched_at": "2026-09-23T08:06:53.535022+09:00",
+    "fetched_at": "2026-09-27T08:02:46.371741+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
