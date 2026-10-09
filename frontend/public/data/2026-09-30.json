@@ -28,7 +28,7 @@
     "summary": "東京都がMICE拠点を募集 助成は最大1,000万円、申請は10月16日まで event-marketing.co.jp",
     "thumbnail_url": null,
     "published_at": "2026-09-30T18:45:30+09:00",
-    "fetched_at": "2026-10-08T09:17:22.781565+09:00",
+    "fetched_at": "2026-10-09T09:31:10.690368+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -45,7 +45,7 @@
     "summary": "ホーチミン市はMICE観光の地位向上を目指し、その価値と国際競争力の強化を図っている。 Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-09-30T18:21:17+09:00",
-    "fetched_at": "2026-10-08T09:17:22.783236+09:00",
+    "fetched_at": "2026-10-09T09:31:10.691365+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -79,26 +79,9 @@
     "summary": "【丹青社ニュースレター2026．7】＜7月のコラム更新情報＞ 北海道新聞デジタル",
     "thumbnail_url": null,
     "published_at": "2026-09-30T17:45:34+09:00",
-    "fetched_at": "2026-10-08T09:17:17.438421+09:00",
+    "fetched_at": "2026-10-09T09:31:06.432116+09:00",
     "matched_keywords": [
       "丹青社"
-    ]
-  },
-  {
-    "id": "acd3d8fd4fd6926e",
-    "title": "【KOREA MICE EXPO 2026】11月17日～19日にソウル・COEXマゴクで開催。韓国最大級のMICE総合展示会・商談会 - MICE TIMES ONLINE",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOTFE3RENwb0hfTUlia2JNQm4xNFFCbU9KXzNBNHVMLTNkYlI4UjhTVGJsWjJCcThJT185UjFrODJGVDU4NlJibHJLejdlRFFWeW9RbEdPMWZjT2c?oc=5",
-    "source_name": "MICE TIMES ONLINE",
-    "source_type": "keyword_search",
-    "categories": [
-      "exhibition_expo"
-    ],
-    "summary": "【KOREA MICE EXPO 2026】11月17日～19日にソウル・COEXマゴクで開催。韓国最大級のMICE総合展示会・商談会 MICE TIMES ONLINE",
-    "thumbnail_url": null,
-    "published_at": "2026-09-30T17:44:47+09:00",
-    "fetched_at": "2026-10-08T09:17:22.781108+09:00",
-    "matched_keywords": [
-      "MICE 展示会"
     ]
   },
   {
@@ -130,9 +113,26 @@
     "summary": "【丹青社ニュースレター2026．9】＜9月のコラム更新情報＞ 北海道新聞デジタル",
     "thumbnail_url": null,
     "published_at": "2026-09-30T17:15:11+09:00",
-    "fetched_at": "2026-10-08T09:17:17.438366+09:00",
+    "fetched_at": "2026-10-09T09:31:06.431911+09:00",
     "matched_keywords": [
       "丹青社"
+    ]
+  },
+  {
+    "id": "acd3d8fd4fd6926e",
+    "title": "【KOREA MICE EXPO 2026】11月17日～19日にソウル・COEXマゴクで開催。韓国最大級のMICE総合展示会・商談会 - MICE TIMES ONLINE",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOTFE3RENwb0hfTUlia2JNQm4xNFFCbU9KXzNBNHVMLTNkYlI4UjhTVGJsWjJCcThJT185UjFrODJGVDU4NlJibHJLejdlRFFWeW9RbEdPMWZjT2c?oc=5",
+    "source_name": "MICE TIMES ONLINE",
+    "source_type": "keyword_search",
+    "categories": [
+      "exhibition_expo"
+    ],
+    "summary": "【KOREA MICE EXPO 2026】11月17日～19日にソウル・COEXマゴクで開催。韓国最大級のMICE総合展示会・商談会 MICE TIMES ONLINE",
+    "thumbnail_url": null,
+    "published_at": "2026-09-30T16:00:00+09:00",
+    "fetched_at": "2026-10-09T09:31:10.690087+09:00",
+    "matched_keywords": [
+      "MICE 展示会"
     ]
   },
   {
@@ -147,7 +147,7 @@
     "summary": "【丹青社ニュースレター2026．9】＜9月のコラム更新情報＞ Digital PR Platform",
     "thumbnail_url": null,
     "published_at": "2026-09-30T16:00:00+09:00",
-    "fetched_at": "2026-10-08T09:17:17.436520+09:00",
+    "fetched_at": "2026-10-09T09:31:06.431001+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -164,7 +164,7 @@
     "summary": "【丹青社ニュースレター2026．9】＜9月のコラム更新情報＞ Excite エキサイト",
     "thumbnail_url": null,
     "published_at": "2026-09-30T16:00:00+09:00",
-    "fetched_at": "2026-10-08T09:17:17.438308+09:00",
+    "fetched_at": "2026-10-09T09:31:06.431839+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -222,17 +222,17 @@
   },
   {
     "id": "70fc87f8abb299af",
-    "title": "【居住空間デザイン学科】９月卒業式！ - tezukayama-u.ac.jp",
+    "title": "【居住空間デザイン学科】９月卒業式！ - 帝塚山大学",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEdJT0Voc2YxVkdUOVlqa1llQWxLMUh2ejczZ0dONVhqMFdQbllFQmNqNFJpLVhEV1AtTEZybG9KSGZQb2NfNmszMWJWb2o3MU9hYXo1TDlVajhLQkZ2QWhaa1JILXlRb255QWN4TjY4VTRVMVo2WDZTMmNlbnJiYQ?oc=5",
-    "source_name": "tezukayama-u.ac.jp",
+    "source_name": "帝塚山大学",
     "source_type": "keyword_search",
     "categories": [
       "space_design"
     ],
-    "summary": "【居住空間デザイン学科】９月卒業式！ tezukayama-u.ac.jp",
+    "summary": "【居住空間デザイン学科】９月卒業式！ 帝塚山大学",
     "thumbnail_url": null,
     "published_at": "2026-09-30T16:00:00+09:00",
-    "fetched_at": "2026-10-06T10:21:31.398794+09:00",
+    "fetched_at": "2026-10-09T09:31:07.029723+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -249,7 +249,7 @@
     "summary": "【居住空間デザイン学科】キャリア構築のための第１歩 帝塚山大学",
     "thumbnail_url": null,
     "published_at": "2026-09-30T16:00:00+09:00",
-    "fetched_at": "2026-10-08T09:17:18.008149+09:00",
+    "fetched_at": "2026-10-09T09:31:07.029848+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -266,7 +266,7 @@
     "summary": "【丹青社ニュースレター2026．9】＜9月のコラム更新情報＞ ZDNET Japan",
     "thumbnail_url": null,
     "published_at": "2026-09-30T16:00:00+09:00",
-    "fetched_at": "2026-10-08T09:17:17.437906+09:00",
+    "fetched_at": "2026-10-09T09:31:06.431648+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -283,7 +283,7 @@
     "summary": "「株式会社丹青社」のプレスリリース一覧（1） 財経新聞",
     "thumbnail_url": null,
     "published_at": "2026-09-30T16:00:00+09:00",
-    "fetched_at": "2026-10-08T09:17:17.438479+09:00",
+    "fetched_at": "2026-10-09T09:31:06.431939+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -300,7 +300,7 @@
     "summary": "イトーキ、オフィスデータと空間デザインを掛け合わせ本社ショールーム12階をリニューアル Biz/Zine",
     "thumbnail_url": null,
     "published_at": "2026-09-30T15:15:00+09:00",
-    "fetched_at": "2026-10-08T09:17:18.008241+09:00",
+    "fetched_at": "2026-10-09T09:31:07.029771+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -334,7 +334,7 @@
     "summary": "【2027年、新会場誕生！】注目の最新MICE施設2選 GLOBAL PRODUCE",
     "thumbnail_url": null,
     "published_at": "2026-09-30T14:50:46+09:00",
-    "fetched_at": "2026-10-08T09:17:22.782094+09:00",
+    "fetched_at": "2026-10-09T09:31:10.690693+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -351,7 +351,7 @@
     "summary": "落合陽一が贈る「null²ⁿ（ヌルヌルネクサス）」が10月14日、横浜にグランドオープン。万博の体験を再構成した常設シアターミュージアム Tokyo Art Beat",
     "thumbnail_url": null,
     "published_at": "2026-09-30T14:29:16+09:00",
-    "fetched_at": "2026-10-07T08:56:12.896781+09:00",
+    "fetched_at": "2026-10-09T09:31:10.117733+09:00",
     "matched_keywords": [
       "万博 パビリオン"
     ]
@@ -369,7 +369,7 @@
     "summary": "イギリスのインテリアブランドMADEは、ロンドンの複合文化施設バービカンと協働し、インテリアコレクション「MADE×Barbican」を発表した。1965年に着工し、11年をかけて建設された巨大集合住宅バービカン・エステ […]",
     "thumbnail_url": null,
     "published_at": "2026-09-30T11:40:00+09:00",
-    "fetched_at": "2026-10-08T09:17:13.793612+09:00",
+    "fetched_at": "2026-10-09T09:31:01.756824+09:00",
     "matched_keywords": []
   },
   {
