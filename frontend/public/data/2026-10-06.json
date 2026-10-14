@@ -11,7 +11,7 @@
     "summary": "空港グラハン協会、乃村工藝社が入会 | 航空 | ニュース Daily Cargo電子版",
     "thumbnail_url": null,
     "published_at": "2026-10-06T19:42:58+09:00",
-    "fetched_at": "2026-10-14T08:47:27.445184+09:00",
+    "fetched_at": "2026-10-15T08:20:20.182861+09:00",
     "matched_keywords": [
       "乃村工藝社"
     ]
@@ -28,7 +28,7 @@
     "summary": "「１年経つごとに事業費が膨らむ…」札幌のMICE施設建設 基本計画を発表 事業費は６００億円 HTB 北海道テレビ",
     "thumbnail_url": null,
     "published_at": "2026-10-06T19:07:00+09:00",
-    "fetched_at": "2026-10-14T08:47:32.664947+09:00",
+    "fetched_at": "2026-10-15T08:20:25.160499+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -45,7 +45,7 @@
     "summary": "ホーチミン市は年末の繁忙期にMICE（会議、報奨旅行、コンベンション、展示会）観光客を誘致したいと考えているが、企業側はどのような反応を示しているのだろうか？ Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-10-06T18:21:51+09:00",
-    "fetched_at": "2026-10-14T08:47:32.666072+09:00",
+    "fetched_at": "2026-10-15T08:20:25.161943+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -102,23 +102,6 @@
     ]
   },
   {
-    "id": "a74b8b9c359738a9",
-    "title": "札幌市がＭＩＣＥ施設の概要発表 ２０３１年度着工へ（テレビ北海道） - Yahoo!ニュース",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GbXg2YURreWJFcEh4eW1HbHRiSDBaeUhTN1FfNFI2WnFNZ2d2TnpmZm8tSUViN1JwOFloRzZ1X0NERGtVVWUwNjBDVElyWExONE81Y1A2ZU56bDNjZ0ZvOERqOXZhY3Nsa1NRWHlybTNrYWpNMnoxbGgySWVqaWM?oc=5",
-    "source_name": "Yahoo!ニュース",
-    "source_type": "keyword_search",
-    "categories": [
-      "exhibition_expo"
-    ],
-    "summary": "札幌市がＭＩＣＥ施設の概要発表 ２０３１年度着工へ（テレビ北海道） Yahoo!ニュース",
-    "thumbnail_url": null,
-    "published_at": "2026-10-06T17:52:23+09:00",
-    "fetched_at": "2026-10-14T08:47:32.665467+09:00",
-    "matched_keywords": [
-      "MICE 展示会"
-    ]
-  },
-  {
     "id": "96a695065f54abe3",
     "title": "台北のカフェ「Cream & Bean」。 FORSPACE STUDIOが、45㎡の空間をローマ遺跡の風景へ",
     "url": "https://www.axismag.jp/posts/2026/10/725340.html",
@@ -131,8 +114,42 @@
     "summary": "台湾・台北市大同区にあるカフェ「Cream & Bean」は、台北の設計スタジオFORSPACE STUDIOが手がけた約45㎡の店舗である。ローマの遺跡から着想を得て、考古学的な風景を現代のカフェ空間として再 […]",
     "thumbnail_url": null,
     "published_at": "2026-10-06T16:48:10+09:00",
-    "fetched_at": "2026-10-14T08:47:24.409023+09:00",
+    "fetched_at": "2026-10-15T08:20:16.841110+09:00",
     "matched_keywords": []
+  },
+  {
+    "id": "a74b8b9c359738a9",
+    "title": "札幌市がＭＩＣＥ施設の概要発表 ２０３１年度着工へ（テレビ北海道） - Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GbXg2YURreWJFcEh4eW1HbHRiSDBaeUhTN1FfNFI2WnFNZ2d2TnpmZm8tSUViN1JwOFloRzZ1X0NERGtVVWUwNjBDVElyWExONE81Y1A2ZU56bDNjZ0ZvOERqOXZhY3Nsa1NRWHlybTNrYWpNMnoxbGgySWVqaWM?oc=5",
+    "source_name": "Yahoo!ニュース",
+    "source_type": "keyword_search",
+    "categories": [
+      "exhibition_expo"
+    ],
+    "summary": "札幌市がＭＩＣＥ施設の概要発表 ２０３１年度着工へ（テレビ北海道） Yahoo!ニュース",
+    "thumbnail_url": null,
+    "published_at": "2026-10-06T16:00:00+09:00",
+    "fetched_at": "2026-10-15T08:20:25.161109+09:00",
+    "matched_keywords": [
+      "MICE 展示会"
+    ]
+  },
+  {
+    "id": "a18ef6a53dca58dc",
+    "title": "【居住空間デザイン学科】奈良県建築士会×木構造の“極意”×出前講座 - 帝塚山大学",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZVZ2SmhtZVFwU1M2UmFjWUtYVk9EbnljNUV6OTUyQWxFQVJ2OVJ2Vll5cGsyU2pRZ0FYcW9SYjFHd19Yd1E4OVlKdnJ5QmEwOUw5QnQ3REdwMUJ3bEhERktVWEFYNEdzMUFBQi1SS2U1OHMyMGQ4OUtRdmwybVdCdg?oc=5",
+    "source_name": "帝塚山大学",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "【居住空間デザイン学科】奈良県建築士会×木構造の“極意”×出前講座 帝塚山大学",
+    "thumbnail_url": null,
+    "published_at": "2026-10-06T16:00:00+09:00",
+    "fetched_at": "2026-10-15T08:20:21.284393+09:00",
+    "matched_keywords": [
+      "空間デザイン"
+    ]
   },
   {
     "id": "687e69dc812cc6ff",
@@ -198,7 +215,7 @@
     "summary": "トム・ディクソン《鉄塔の椅子》1994年 国立工芸館蔵 撮影：エス・アンド・ティ フォト 金沢市の国立工芸館は、「デザイン・クロニクル展 なにが生まれて、なにが変わった？」を、10月9日（金）から2027年1月11日（月 […]",
     "thumbnail_url": null,
     "published_at": "2026-10-06T13:52:26+09:00",
-    "fetched_at": "2026-10-14T08:47:24.409043+09:00",
+    "fetched_at": "2026-10-15T08:20:16.841131+09:00",
     "matched_keywords": []
   },
   {
