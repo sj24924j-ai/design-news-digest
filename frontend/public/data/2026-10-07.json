@@ -34,23 +34,6 @@
     ]
   },
   {
-    "id": "b8d745d45ad5f6cd",
-    "title": "Salesforce、韓国Inspire ResortのMICE営業にCRM・AIを融合 - BigGo ファイナンス",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MWUh5WEpjWms5dkNodVNTc3F0SlRFYVNUNFhNTHhPQTVtU3VwWnk3M0MwbnpzcWxPVkJmME1zZmo2eTFFWHMzMkNEZ0hHcS1XSHFHS1lxSTVKV1huMWJTZ2ZBR1lpZU1YVUpzOFJtMnlvZzdJ?oc=5",
-    "source_name": "BigGo ファイナンス",
-    "source_type": "keyword_search",
-    "categories": [
-      "exhibition_expo"
-    ],
-    "summary": "Salesforce、韓国Inspire ResortのMICE営業にCRM・AIを融合 BigGo ファイナンス",
-    "thumbnail_url": null,
-    "published_at": "2026-10-07T18:25:00+09:00",
-    "fetched_at": "2026-10-15T08:20:25.161517+09:00",
-    "matched_keywords": [
-      "MICE 展示会"
-    ]
-  },
-  {
     "id": "3e2a6027a9db3df1",
     "title": "東京都MICEセミナーの参加者を募集します！|10月 - 都庁総合ホームページ",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16c1IyVWdEanJ3NzV1XzRYS3ViYXVCVEo3WmVwUkxWRnNvamFrQUN1S1l6OEdkZkk5Zm1EUjhYNkNCWjJ4Q3lLbHhyS1FPNXNaU3pkZHlBbmh3S2s1VmlUWTMyTU04QzU0cXZjTjVHX3BrbmU3?oc=5",
@@ -62,7 +45,7 @@
     "summary": "東京都MICEセミナーの参加者を募集します！|10月 都庁総合ホームページ",
     "thumbnail_url": null,
     "published_at": "2026-10-07T17:17:13+09:00",
-    "fetched_at": "2026-10-15T08:20:25.160314+09:00",
+    "fetched_at": "2026-10-16T08:09:18.330354+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -79,7 +62,24 @@
     "summary": "MICE観光は「場所」から「体験」へとシフトし、経済的価値を高めている。 Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-10-07T16:15:13+09:00",
-    "fetched_at": "2026-10-15T08:20:25.161844+09:00",
+    "fetched_at": "2026-10-16T08:09:18.331690+09:00",
+    "matched_keywords": [
+      "MICE 展示会"
+    ]
+  },
+  {
+    "id": "b8d745d45ad5f6cd",
+    "title": "Salesforce、韓国Inspire ResortのMICE営業にCRM・AIを融合 - BigGo ファイナンス",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MWUh5WEpjWms5dkNodVNTc3F0SlRFYVNUNFhNTHhPQTVtU3VwWnk3M0MwbnpzcWxPVkJmME1zZmo2eTFFWHMzMkNEZ0hHcS1XSHFHS1lxSTVKV1huMWJTZ2ZBR1lpZU1YVUpzOFJtMnlvZzdJ?oc=5",
+    "source_name": "BigGo ファイナンス",
+    "source_type": "keyword_search",
+    "categories": [
+      "exhibition_expo"
+    ],
+    "summary": "Salesforce、韓国Inspire ResortのMICE営業にCRM・AIを融合 BigGo ファイナンス",
+    "thumbnail_url": null,
+    "published_at": "2026-10-07T16:00:00+09:00",
+    "fetched_at": "2026-10-16T08:09:18.331482+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -96,9 +96,26 @@
     "summary": "築古ビル再生事業を「ビルノワ」に改称、新サイトも公開 丹青社 住宅新報",
     "thumbnail_url": null,
     "published_at": "2026-10-07T16:00:00+09:00",
-    "fetched_at": "2026-10-14T08:47:27.936285+09:00",
+    "fetched_at": "2026-10-16T08:09:13.348477+09:00",
     "matched_keywords": [
       "丹青社"
+    ]
+  },
+  {
+    "id": "b39eb5820e68ed55",
+    "title": "597億円の札幌MICE「負担抑制を」「立ち止まるべきだ」 市議会詳報 - 北海道新聞デジタル",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UDVpbzY4dDFDQ19EdmV2RzQ4RGlqWktOSEI0VHFtVi1pQXpubmEzOF9HY2NOQ05yRUlFX24xX2FkU2RYdnZ4aHd3aGRVODhocHcwQXhrSVlGUQ?oc=5",
+    "source_name": "北海道新聞デジタル",
+    "source_type": "keyword_search",
+    "categories": [
+      "exhibition_expo"
+    ],
+    "summary": "597億円の札幌MICE「負担抑制を」「立ち止まるべきだ」 市議会詳報 北海道新聞デジタル",
+    "thumbnail_url": null,
+    "published_at": "2026-10-07T16:00:00+09:00",
+    "fetched_at": "2026-10-16T08:09:18.331272+09:00",
+    "matched_keywords": [
+      "MICE 展示会"
     ]
   },
   {
@@ -130,7 +147,7 @@
     "summary": "『KOGEI STANDARD』2026年10月7日 当社がサービスを提供するアート・工芸作品のプラットフォーム「B-OWND（ビーオウンド）」が、東京駅前・八重洲一丁目の大規模複合施設「TOFROM YAESU（トフロ […]",
     "thumbnail_url": null,
     "published_at": "2026-10-07T14:30:11+09:00",
-    "fetched_at": "2026-10-15T08:20:19.652315+09:00",
+    "fetched_at": "2026-10-16T08:09:12.144681+09:00",
     "matched_keywords": []
   },
   {
@@ -179,24 +196,7 @@
     "summary": "東京都、新たなMICE拠点を募集 エリア単位で誘致・受入体制を強化 展示会とMICE",
     "thumbnail_url": null,
     "published_at": "2026-10-07T14:10:34+09:00",
-    "fetched_at": "2026-10-15T08:20:25.160577+09:00",
-    "matched_keywords": [
-      "MICE 展示会"
-    ]
-  },
-  {
-    "id": "b39eb5820e68ed55",
-    "title": "597億円の札幌MICE「負担抑制を」「立ち止まるべきだ」 市議会詳報 - 北海道新聞デジタル",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UDVpbzY4dDFDQ19EdmV2RzQ4RGlqWktOSEI0VHFtVi1pQXpubmEzOF9HY2NOQ05yRUlFX24xX2FkU2RYdnZ4aHd3aGRVODhocHcwQXhrSVlGUQ?oc=5",
-    "source_name": "北海道新聞デジタル",
-    "source_type": "keyword_search",
-    "categories": [
-      "exhibition_expo"
-    ],
-    "summary": "597億円の札幌MICE「負担抑制を」「立ち止まるべきだ」 市議会詳報 北海道新聞デジタル",
-    "thumbnail_url": null,
-    "published_at": "2026-10-07T11:01:50+09:00",
-    "fetched_at": "2026-10-15T08:20:25.161304+09:00",
+    "fetched_at": "2026-10-16T08:09:18.330700+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -213,7 +213,7 @@
     "summary": "丹青社は、三井住友カード株式会社（以下「三井住友カード」）との協業により、同社が提供するキャッシュレス決済データ分析サービス「Custella（カステラ）」を活用したデータ駆動型の空間づくりを開始いたしました。三井住友 […]",
     "thumbnail_url": null,
     "published_at": "2026-10-07T11:00:36+09:00",
-    "fetched_at": "2026-10-15T08:20:19.652335+09:00",
+    "fetched_at": "2026-10-16T08:09:12.144696+09:00",
     "matched_keywords": []
   },
   {
@@ -285,6 +285,23 @@
     ]
   },
   {
+    "id": "1e4c9f7c1bf97e66",
+    "title": "丹青社、三井住友カードのキャッシュレス決済データ分析サービス「Custella」を活用し、富裕層・インバウンド消費を捉えた空間づくりを強化 - 沖縄タイムス社",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fN3gxeHZwQVdxZHljSmNrTWZWd3VJaEtzdXpua2p3WE8zeUJOM0FjRlZBakhZeHFLRGg1c0FhNXJPcmhDYXY2SWE2UjVWUmZCNkRUVXBhTWdLWVQ1bHc?oc=5",
+    "source_name": "沖縄タイムス社",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "丹青社、三井住友カードのキャッシュレス決済データ分析サービス「Custella」を活用し、富裕層・インバウンド消費を捉えた空間づくりを強化 沖縄タイムス社",
+    "thumbnail_url": null,
+    "published_at": "2026-10-07T11:00:00+09:00",
+    "fetched_at": "2026-10-16T08:09:13.347989+09:00",
+    "matched_keywords": [
+      "丹青社"
+    ]
+  },
+  {
     "id": "3a467599044d36d9",
     "title": "丹青社について、みずほ証券は保有割合が増加したと報告 [変更報告書No.1] - 株探",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Z1RkRWJSTGMxVFBoYUFGbUp3U25OX0I5bXBwLThqNm1fQURZRU9WYUd5Q0p1WEFSdkZUaUdUY2wxbVlnaTBld1c4LTQwbDl1N1E?oc=5",
@@ -296,7 +313,7 @@
     "summary": "丹青社について、みずほ証券は保有割合が増加したと報告 [変更報告書No.1] 株探",
     "thumbnail_url": null,
     "published_at": "2026-10-07T10:56:02+09:00",
-    "fetched_at": "2026-10-15T08:20:20.723888+09:00",
+    "fetched_at": "2026-10-16T08:09:13.347749+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -381,7 +398,7 @@
     "summary": "みずほ証券 株式会社が(株)丹青社＜9743＞株式の変更報告書を提出 ｄメニューニュース",
     "thumbnail_url": null,
     "published_at": "2026-10-07T10:33:00+09:00",
-    "fetched_at": "2026-10-15T08:20:20.724825+09:00",
+    "fetched_at": "2026-10-16T08:09:13.348520+09:00",
     "matched_keywords": [
       "丹青社"
     ]
@@ -399,7 +416,7 @@
     "summary": "MoN Takanawa: The Museum of Narrativesは、展覧会「THE FIRST RAILWAY はじまりの鉄道―高輪築堤の物語―」を、10月8日（木）から11月16日（月）まで開催する。日本初 […]",
     "thumbnail_url": null,
     "published_at": "2026-10-07T10:05:00+09:00",
-    "fetched_at": "2026-10-15T08:20:16.841089+09:00",
+    "fetched_at": "2026-10-16T08:09:09.417275+09:00",
     "matched_keywords": []
   },
   {
@@ -414,7 +431,7 @@
     "summary": "和光のウインドウディスプレイ「韻」 日本空間デザイン賞 銅賞を受賞 セイコーグループ",
     "thumbnail_url": null,
     "published_at": "2026-10-07T10:03:52+09:00",
-    "fetched_at": "2026-10-15T08:20:21.284329+09:00",
+    "fetched_at": "2026-10-16T08:09:13.912939+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -431,7 +448,7 @@
     "summary": "『繊研新聞』2026年10月7日 当社 代表取締役社長 小林 統のコラム記事が掲載されました。 記事中では、当社概要や創業80周年の取り組み、創業100周年に向けて策定したパーパスやバリューが紹介されています。 以下より […]",
     "thumbnail_url": null,
     "published_at": "2026-10-07T10:00:28+09:00",
-    "fetched_at": "2026-10-15T08:20:19.652355+09:00",
+    "fetched_at": "2026-10-16T08:09:12.144710+09:00",
     "matched_keywords": []
   },
   {
@@ -480,7 +497,7 @@
     "summary": "新MICE、事業費約600億円 PFI方式で民間活用 [北海道] 朝日新聞",
     "thumbnail_url": null,
     "published_at": "2026-10-07T10:00:00+09:00",
-    "fetched_at": "2026-10-15T08:20:25.160635+09:00",
+    "fetched_at": "2026-10-16T08:09:18.330730+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -548,7 +565,7 @@
     "summary": "《私のビジネス日記帳》集まる人の喜ぶ顔を糧に 丹青社社長 小林統 繊研新聞",
     "thumbnail_url": null,
     "published_at": "2026-10-07T06:25:00+09:00",
-    "fetched_at": "2026-10-15T08:20:20.724293+09:00",
+    "fetched_at": "2026-10-16T08:09:13.348137+09:00",
     "matched_keywords": [
       "丹青社"
     ]
