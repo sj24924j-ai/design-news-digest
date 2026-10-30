@@ -11,26 +11,9 @@
     "summary": "クイニョンに到着した時、最初に頭に浮かんだのはMICE（会議、報奨旅行、コンベンション、展示会）のことでした！ Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-10-20T22:41:54+09:00",
-    "fetched_at": "2026-10-30T09:01:29.104536+09:00",
+    "fetched_at": "2026-10-31T08:55:48.429423+09:00",
     "matched_keywords": [
       "MICE 展示会"
-    ]
-  },
-  {
-    "id": "bb804618b32f9076",
-    "title": "乃村工藝社が長野県で手掛けた、企業風土を空間に昇華した〈八幡屋礒五郎 CEVEN LAB〉 - TECTURE MAG（テクチャーマガジン）",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wR051Vy01bkN4a01RWENaRHNOUnZrWUp1VVVRVHdtcmR6bkNBclhJc01DSFY2dGZSNm5JdTRiZ2tLSGFrcmtLaTRRck9mY0Y5NkJEeks5a0h4Q0U1UTd3?oc=5",
-    "source_name": "TECTURE MAG（テクチャーマガジン）",
-    "source_type": "keyword_search",
-    "categories": [
-      "space_design"
-    ],
-    "summary": "乃村工藝社が長野県で手掛けた、企業風土を空間に昇華した〈八幡屋礒五郎 CEVEN LAB〉 TECTURE MAG（テクチャーマガジン）",
-    "thumbnail_url": null,
-    "published_at": "2026-10-20T19:58:34+09:00",
-    "fetched_at": "2026-10-28T08:53:11.055118+09:00",
-    "matched_keywords": [
-      "乃村工藝社"
     ]
   },
   {
@@ -80,25 +63,8 @@
     "summary": "Image: Atelier Kanal ベルギー・ブリュッセルに、現代美術と建築の新たな文化拠点「KANAL-CENTRE POMPIDOU」が、11月28日（土）に開館する。ブリュッセル中心部の運河沿いに建つ旧シトロ […]",
     "thumbnail_url": null,
     "published_at": "2026-10-20T17:30:03+09:00",
-    "fetched_at": "2026-10-30T09:01:21.593486+09:00",
+    "fetched_at": "2026-10-31T08:55:40.865341+09:00",
     "matched_keywords": []
-  },
-  {
-    "id": "d1aa255723782c21",
-    "title": "ダナン市は、MICE観光を促進するため、国際協力を拡大する。 - Vietnam.vn",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW1zOHdnaXZOUG9welBTaWdIUmtZNXN4Rm5Nd3hwV1BJdDZmMzk1LVNJTWVkWG85dUlYYVZhRjBLT2o0dHBDWTd3LVRoLVoxVS1KaV82c0ptSGJhWkdyTDBPRGVpeTdfTy0tdGxBUlNFSFZlcU84MDlMNGtwUUJkeG9zM3VwZw?oc=5",
-    "source_name": "Vietnam.vn",
-    "source_type": "keyword_search",
-    "categories": [
-      "exhibition_expo"
-    ],
-    "summary": "ダナン市は、MICE観光を促進するため、国際協力を拡大する。 Vietnam.vn",
-    "thumbnail_url": null,
-    "published_at": "2026-10-20T16:35:26+09:00",
-    "fetched_at": "2026-10-30T09:01:29.104051+09:00",
-    "matched_keywords": [
-      "MICE 展示会"
-    ]
   },
   {
     "id": "708ff78ab7f62afa",
@@ -118,6 +84,74 @@
     ]
   },
   {
+    "id": "bb804618b32f9076",
+    "title": "乃村工藝社が長野県で手掛けた、企業風土を空間に昇華した〈八幡屋礒五郎 CEVEN LAB〉 - TECTURE MAG（テクチャーマガジン）",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wR051Vy01bkN4a01RWENaRHNOUnZrWUp1VVVRVHdtcmR6bkNBclhJc01DSFY2dGZSNm5JdTRiZ2tLSGFrcmtLaTRRck9mY0Y5NkJEeks5a0h4Q0U1UTd3?oc=5",
+    "source_name": "TECTURE MAG（テクチャーマガジン）",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "乃村工藝社が長野県で手掛けた、企業風土を空間に昇華した〈八幡屋礒五郎 CEVEN LAB〉 TECTURE MAG（テクチャーマガジン）",
+    "thumbnail_url": null,
+    "published_at": "2026-10-20T16:00:00+09:00",
+    "fetched_at": "2026-10-31T08:55:44.466223+09:00",
+    "matched_keywords": [
+      "乃村工藝社"
+    ]
+  },
+  {
+    "id": "d1aa255723782c21",
+    "title": "ダナン市は、MICE観光を促進するため、国際協力を拡大する。 - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW1zOHdnaXZOUG9welBTaWdIUmtZNXN4Rm5Nd3hwV1BJdDZmMzk1LVNJTWVkWG85dUlYYVZhRjBLT2o0dHBDWTd3LVRoLVoxVS1KaV82c0ptSGJhWkdyTDBPRGVpeTdfTy0tdGxBUlNFSFZlcU84MDlMNGtwUUJkeG9zM3VwZw?oc=5",
+    "source_name": "Vietnam.vn",
+    "source_type": "keyword_search",
+    "categories": [
+      "exhibition_expo"
+    ],
+    "summary": "ダナン市は、MICE観光を促進するため、国際協力を拡大する。 Vietnam.vn",
+    "thumbnail_url": null,
+    "published_at": "2026-10-20T16:00:00+09:00",
+    "fetched_at": "2026-10-31T08:55:48.428963+09:00",
+    "matched_keywords": [
+      "MICE 展示会"
+    ]
+  },
+  {
+    "id": "ed86f3902aa332da",
+    "title": "先端技術の展示・体験で課題解決を支援 東京都と東京観光財団、11月5日にMICEセミナー - 展示会とMICE",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ea2N3ZUN6dUozZzlFVWgxa3BJTzVEUGplMXkzdzl1MW1PU1NDdHlFUVFVaGROX185QXIxeWotVmctT2xBWVRoVlRn?oc=5",
+    "source_name": "展示会とMICE",
+    "source_type": "keyword_search",
+    "categories": [
+      "exhibition_expo"
+    ],
+    "summary": "先端技術の展示・体験で課題解決を支援 東京都と東京観光財団、11月5日にMICEセミナー 展示会とMICE",
+    "thumbnail_url": null,
+    "published_at": "2026-10-20T16:00:00+09:00",
+    "fetched_at": "2026-10-31T08:55:48.426977+09:00",
+    "matched_keywords": [
+      "MICE 展示会"
+    ]
+  },
+  {
+    "id": "8c8b335d7a1cf18e",
+    "title": "ロゴ入り3色フリクションペンをプレゼント【乃村工藝社IR特集】｜プレゼント｜お知らせ - ラジオNIKKEI",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pb3c2aVdLMEtqcTd0TTdSRkZVczhHUGRaX2xKQTBweXI5Y0UwNW1CYzl1Tlk4ZGt3d0dJSTNwZDBfZWF0SzBxc1JPWkI5VGZuX3lpcFFsV2lIRTJoUng2bnd4N2hkMmhrRExLeUd1NjNpcXhlUzR3?oc=5",
+    "source_name": "ラジオNIKKEI",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "ロゴ入り3色フリクションペンをプレゼント【乃村工藝社IR特集】｜プレゼント｜お知らせ ラジオNIKKEI",
+    "thumbnail_url": null,
+    "published_at": "2026-10-20T16:00:00+09:00",
+    "fetched_at": "2026-10-31T08:55:44.466349+09:00",
+    "matched_keywords": [
+      "乃村工藝社"
+    ]
+  },
+  {
     "id": "df21d756961bf412",
     "title": "美濃焼を1400ページで読み解く『The Book of MINO 美濃焼の解剖』。産業、工芸、アートを横断し「創造のための資源」としたアーカイブ",
     "url": "https://www.axismag.jp/posts/2026/10/725017.html",
@@ -130,7 +164,7 @@
     "summary": "セラミックバレー協議会は、美濃焼を「デザインの解剖」という視点から読み解く書籍『The Book of MINO 美濃焼の解剖』を刊行する。11月3日（火）の発刊に先駆け、公式オンラインショップや代官山 蔦屋書店など一部 […]",
     "thumbnail_url": null,
     "published_at": "2026-10-20T14:05:55+09:00",
-    "fetched_at": "2026-10-30T09:01:21.593510+09:00",
+    "fetched_at": "2026-10-31T08:55:40.865370+09:00",
     "matched_keywords": []
   },
   {
@@ -197,7 +231,7 @@
     "summary": "日本デジタルプリント壁紙市場、2035年に42億8,700万米ドルへ拡大、CAGR 17.2％、高精細デジタル印刷と空間デザインの多様化が市場成長を加速 Newscast.jp",
     "thumbnail_url": null,
     "published_at": "2026-10-20T12:00:00+09:00",
-    "fetched_at": "2026-10-29T09:07:44.452956+09:00",
+    "fetched_at": "2026-10-31T08:55:46.315210+09:00",
     "matched_keywords": [
       "商業施設 デザイン"
     ]
@@ -235,23 +269,6 @@
     "fetched_at": "2026-10-22T08:29:24.717190+09:00",
     "matched_keywords": [
       "商業施設 デザイン"
-    ]
-  },
-  {
-    "id": "ed86f3902aa332da",
-    "title": "先端技術の展示・体験で課題解決を支援 東京都と東京観光財団、11月5日にMICEセミナー - 展示会とMICE",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ea2N3ZUN6dUozZzlFVWgxa3BJTzVEUGplMXkzdzl1MW1PU1NDdHlFUVFVaGROX185QXIxeWotVmctT2xBWVRoVlRn?oc=5",
-    "source_name": "展示会とMICE",
-    "source_type": "keyword_search",
-    "categories": [
-      "exhibition_expo"
-    ],
-    "summary": "先端技術の展示・体験で課題解決を支援 東京都と東京観光財団、11月5日にMICEセミナー 展示会とMICE",
-    "thumbnail_url": null,
-    "published_at": "2026-10-20T09:54:59+09:00",
-    "fetched_at": "2026-10-27T08:57:57.659214+09:00",
-    "matched_keywords": [
-      "MICE 展示会"
     ]
   },
   {
@@ -318,7 +335,7 @@
     "summary": "武蔵野大学／高校生空間デザインアイデアコンペ／最優秀に近藤康介さん 日刊建設工業新聞",
     "thumbnail_url": null,
     "published_at": "2026-10-20T06:03:32+09:00",
-    "fetched_at": "2026-10-30T09:01:26.073066+09:00",
+    "fetched_at": "2026-10-31T08:55:45.446095+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -355,23 +372,6 @@
     "fetched_at": "2026-10-20T08:49:59.810570+09:00",
     "matched_keywords": [
       "空間デザイン"
-    ]
-  },
-  {
-    "id": "8c8b335d7a1cf18e",
-    "title": "ロゴ入り3色フリクションペンをプレゼント【乃村工藝社IR特集】｜プレゼント｜お知らせ - ラジオNIKKEI",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pb3c2aVdLMEtqcTd0TTdSRkZVczhHUGRaX2xKQTBweXI5Y0UwNW1CYzl1Tlk4ZGt3d0dJSTNwZDBfZWF0SzBxc1JPWkI5VGZuX3lpcFFsV2lIRTJoUng2bnd4N2hkMmhrRExLeUd1NjNpcXhlUzR3?oc=5",
-    "source_name": "ラジオNIKKEI",
-    "source_type": "keyword_search",
-    "categories": [
-      "space_design"
-    ],
-    "summary": "ロゴ入り3色フリクションペンをプレゼント【乃村工藝社IR特集】｜プレゼント｜お知らせ ラジオNIKKEI",
-    "thumbnail_url": null,
-    "published_at": "2026-10-20T00:00:00+09:00",
-    "fetched_at": "2026-10-29T09:07:42.511057+09:00",
-    "matched_keywords": [
-      "乃村工藝社"
     ]
   }
 ]

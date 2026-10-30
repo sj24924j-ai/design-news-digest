@@ -45,7 +45,7 @@
     "summary": "ハノイ建築大学が、著名な建物の内装デザインコンペを開催する。 Vietnam.vn",
     "thumbnail_url": null,
     "published_at": "2026-10-29T22:03:37+09:00",
-    "fetched_at": "2026-10-30T09:01:26.072737+09:00",
+    "fetched_at": "2026-10-31T08:55:45.446476+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -62,7 +62,7 @@
     "summary": "成田空港の空間づくり・アートが国内外のデザイン賞を受賞！ Excite エキサイト",
     "thumbnail_url": null,
     "published_at": "2026-10-29T21:45:00+09:00",
-    "fetched_at": "2026-10-30T09:01:26.072554+09:00",
+    "fetched_at": "2026-10-31T08:55:45.446005+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -79,7 +79,7 @@
     "summary": "アジア最大級の観光産業展示会「ITB Asia 2026」の責任者に聞いた、旅行先選びは「国」から「体験」へ、AI活用や決済サービスにも新潮流 トラベルボイス",
     "thumbnail_url": null,
     "published_at": "2026-10-29T16:04:11+09:00",
-    "fetched_at": "2026-10-30T09:01:29.102137+09:00",
+    "fetched_at": "2026-10-31T08:55:48.426616+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -96,7 +96,7 @@
     "summary": "東京ビッグサイトのホール構成と面積まとめ【東・西・南・会議棟】どのホールが一番広い?展示会で迷わないための解説 株式会社MICE研究所",
     "thumbnail_url": null,
     "published_at": "2026-10-29T15:05:35+09:00",
-    "fetched_at": "2026-10-30T09:01:29.102548+09:00",
+    "fetched_at": "2026-10-31T08:55:48.427141+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -130,7 +130,7 @@
     "summary": "2026年11月8日（日）に渋谷ヒカリエにて開催されるイベント「UNION EXPO 2026」（主催：ユニオンテックグループ）の特設プログラムに、当社デザイナーが参加・登壇することとなりましたのでお知らせいたします。 […]",
     "thumbnail_url": null,
     "published_at": "2026-10-29T13:00:09+09:00",
-    "fetched_at": "2026-10-30T09:01:24.487522+09:00",
+    "fetched_at": "2026-10-31T08:55:43.830359+09:00",
     "matched_keywords": []
   },
   {
@@ -140,13 +140,30 @@
     "source_name": "ニコニコニュース",
     "source_type": "keyword_search",
     "categories": [
+      "space_design"
+    ],
+    "summary": "成田空港の空間づくり・アートが国内外のデザイン賞を受賞！ ニコニコニュース",
+    "thumbnail_url": null,
+    "published_at": "2026-10-29T11:30:23+09:00",
+    "fetched_at": "2026-10-31T08:55:45.445823+09:00",
+    "matched_keywords": [
+      "空間デザイン"
+    ]
+  },
+  {
+    "id": "9a2b44035365e991",
+    "title": "成田空港の空間づくり・アートが国内外のデザイン賞を受賞！ - ニコニコニュース",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4NTBqNHM0NmRzbzludE9GeUxpbUdRN29kMGU4OG0xbDNYX0F0dTY3YzdBTXhfZlZad2pFcUtPMWhmSjRNRHJLaklxR2dqdzZrTzFTYg?oc=5",
+    "source_name": "ニコニコニュース",
+    "source_type": "keyword_search",
+    "categories": [
       "space_design",
       "architecture_interior"
     ],
     "summary": "成田空港の空間づくり・アートが国内外のデザイン賞を受賞！ ニコニコニュース",
     "thumbnail_url": null,
     "published_at": "2026-10-29T11:30:23+09:00",
-    "fetched_at": "2026-10-30T09:01:26.900241+09:00",
+    "fetched_at": "2026-10-31T08:55:46.315105+09:00",
     "matched_keywords": [
       "商業施設 デザイン"
     ]
@@ -164,7 +181,7 @@
     "summary": "オーストラリア発のバイオエタノール暖炉ブランドEcoSmart Fire（エコスマートファイヤー）は、プロダクトデザイナー柴田文江との共同開発による新作「Halo（ヘイロー）」の発売を開始した。 EcoSmart Fir […]",
     "thumbnail_url": null,
     "published_at": "2026-10-29T11:01:04+09:00",
-    "fetched_at": "2026-10-30T09:01:21.593043+09:00",
+    "fetched_at": "2026-10-31T08:55:40.864828+09:00",
     "matched_keywords": []
   },
   {
@@ -179,7 +196,7 @@
     "summary": "【長崎歴史文化博物館】おかげさまで開館21周年 PR TIMES",
     "thumbnail_url": null,
     "published_at": "2026-10-29T10:33:13+09:00",
-    "fetched_at": "2026-10-30T09:01:24.906119+09:00",
+    "fetched_at": "2026-10-31T08:55:44.468265+09:00",
     "matched_keywords": [
       "乃村工藝社"
     ]
@@ -213,7 +230,7 @@
     "summary": "アート作品「In-Between Matter」が「日本空間デザイン賞」銅賞 科学への好奇心を引き出す空間体験が高評価 島津製作所",
     "thumbnail_url": null,
     "published_at": "2026-10-29T10:04:30+09:00",
-    "fetched_at": "2026-10-30T09:01:26.072433+09:00",
+    "fetched_at": "2026-10-31T08:55:45.445211+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -271,6 +288,23 @@
     ]
   },
   {
+    "id": "a02ce0ce06079b0f",
+    "title": "＜注目銘柄＞＝乃村工芸社、受注高は過去最高水準で再評価 - 株探",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByNk55LTJQZFJSc3NYVU42TW1hNXVDR2pHNHJlQUZVaTcyMVZTeUpyalZVT0lKRGJNaTlfSUoyOE5lVnBqbVZvOWVhWUh3SGR6dk51WXAxdjdNeTVZNmZBWg?oc=5",
+    "source_name": "株探",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "＜注目銘柄＞＝乃村工芸社、受注高は過去最高水準で再評価 株探",
+    "thumbnail_url": null,
+    "published_at": "2026-10-29T10:00:00+09:00",
+    "fetched_at": "2026-10-31T08:55:44.466125+09:00",
+    "matched_keywords": [
+      "乃村工藝社"
+    ]
+  },
+  {
     "id": "e5834003e78fb3de",
     "title": "神戸新聞に、「SHIRO TERRACE（シロテラス）」に関する記事が掲載されました",
     "url": "https://www.tanseisha.co.jp/news/media/2026/post-75873",
@@ -282,7 +316,7 @@
     "summary": "『神戸新聞』2026年10月29日 当社が運営を受託している兵庫県姫路市の観光交流センター「SHIRO TERRACE（シロテラス）」（事業主：姫路市）が2026年10月24日に開館し、播磨の観光や産業を発信する新施設の […]",
     "thumbnail_url": null,
     "published_at": "2026-10-29T09:32:06+09:00",
-    "fetched_at": "2026-10-30T09:01:24.487578+09:00",
+    "fetched_at": "2026-10-31T08:55:43.830391+09:00",
     "matched_keywords": []
   },
   {
@@ -298,7 +332,7 @@
     "summary": "成田空港の空間づくり・アートが国内外のデザイン賞を受賞！ PR TIMES",
     "thumbnail_url": null,
     "published_at": "2026-10-29T09:30:02+09:00",
-    "fetched_at": "2026-10-30T09:01:26.900340+09:00",
+    "fetched_at": "2026-10-31T08:55:46.315176+09:00",
     "matched_keywords": [
       "商業施設 デザイン"
     ]
@@ -315,7 +349,7 @@
     "summary": "MPI Japan Chapterが11月30日に「観光・MICEの現場で活かすDX」セミナー サイバーエージェント本社（渋谷）で開催、グローバルプロデュース光畑さんらが登壇、オンライン配信もあり 株式会社MICE研究所",
     "thumbnail_url": null,
     "published_at": "2026-10-29T09:07:05+09:00",
-    "fetched_at": "2026-10-30T09:01:29.102603+09:00",
+    "fetched_at": "2026-10-31T08:55:48.427044+09:00",
     "matched_keywords": [
       "MICE 展示会"
     ]
@@ -332,7 +366,7 @@
     "summary": "［建築NOTE］壁の中から現れた階段と扉。〈セゾン現代美術館〉改修で蘇った、菊竹清訓の原設計 TECTURE MAG（テクチャーマガジン）",
     "thumbnail_url": null,
     "published_at": "2026-10-29T08:00:46+09:00",
-    "fetched_at": "2026-10-30T09:01:26.072581+09:00",
+    "fetched_at": "2026-10-31T08:55:45.445705+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -383,7 +417,7 @@
     "summary": "PROLED XDRディスプレイを搭載した画期的なMacBook Proを発表 Apple",
     "thumbnail_url": null,
     "published_at": "2026-10-29T02:31:22+09:00",
-    "fetched_at": "2026-10-30T09:01:26.549859+09:00",
+    "fetched_at": "2026-10-31T08:55:45.824791+09:00",
     "matched_keywords": [
       "ディスプレイ業界 デザイン"
     ]
