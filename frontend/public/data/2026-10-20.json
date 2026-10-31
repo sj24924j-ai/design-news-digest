@@ -63,7 +63,7 @@
     "summary": "Image: Atelier Kanal ベルギー・ブリュッセルに、現代美術と建築の新たな文化拠点「KANAL-CENTRE POMPIDOU」が、11月28日（土）に開館する。ブリュッセル中心部の運河沿いに建つ旧シトロ […]",
     "thumbnail_url": null,
     "published_at": "2026-10-20T17:30:03+09:00",
-    "fetched_at": "2026-10-31T08:55:40.865341+09:00",
+    "fetched_at": "2026-11-01T08:31:12.097747+09:00",
     "matched_keywords": []
   },
   {
@@ -95,7 +95,7 @@
     "summary": "乃村工藝社が長野県で手掛けた、企業風土を空間に昇華した〈八幡屋礒五郎 CEVEN LAB〉 TECTURE MAG（テクチャーマガジン）",
     "thumbnail_url": null,
     "published_at": "2026-10-20T16:00:00+09:00",
-    "fetched_at": "2026-10-31T08:55:44.466223+09:00",
+    "fetched_at": "2026-11-01T08:31:15.332910+09:00",
     "matched_keywords": [
       "乃村工藝社"
     ]
@@ -152,6 +152,24 @@
     ]
   },
   {
+    "id": "970c367668b37448",
+    "title": "日本デジタルプリント壁紙市場、2035年に42億8,700万米ドルへ拡大、CAGR 17.2％、高精細デジタル印刷と空間デザインの多様化が市場成長を加速 - Newscast.jp",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5OXU2MXluOHNSZ2F4NFNIUV9fOWpmNldtZmRhRnhYVlJxM2JyLXM5alROcS03bkxmU1dHLXBaUkRJNWRGWGQ2SHhnNHRwVmc?oc=5",
+    "source_name": "Newscast.jp",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design",
+      "architecture_interior"
+    ],
+    "summary": "日本デジタルプリント壁紙市場、2035年に42億8,700万米ドルへ拡大、CAGR 17.2％、高精細デジタル印刷と空間デザインの多様化が市場成長を加速 Newscast.jp",
+    "thumbnail_url": null,
+    "published_at": "2026-10-20T16:00:00+09:00",
+    "fetched_at": "2026-11-01T08:31:17.341879+09:00",
+    "matched_keywords": [
+      "商業施設 デザイン"
+    ]
+  },
+  {
     "id": "df21d756961bf412",
     "title": "美濃焼を1400ページで読み解く『The Book of MINO 美濃焼の解剖』。産業、工芸、アートを横断し「創造のための資源」としたアーカイブ",
     "url": "https://www.axismag.jp/posts/2026/10/725017.html",
@@ -164,7 +182,7 @@
     "summary": "セラミックバレー協議会は、美濃焼を「デザインの解剖」という視点から読み解く書籍『The Book of MINO 美濃焼の解剖』を刊行する。11月3日（火）の発刊に先駆け、公式オンラインショップや代官山 蔦屋書店など一部 […]",
     "thumbnail_url": null,
     "published_at": "2026-10-20T14:05:55+09:00",
-    "fetched_at": "2026-10-31T08:55:40.865370+09:00",
+    "fetched_at": "2026-11-01T08:31:12.097775+09:00",
     "matched_keywords": []
   },
   {
@@ -216,24 +234,6 @@
     "fetched_at": "2026-10-23T08:29:02.406340+09:00",
     "matched_keywords": [
       "空間デザイン"
-    ]
-  },
-  {
-    "id": "970c367668b37448",
-    "title": "日本デジタルプリント壁紙市場、2035年に42億8,700万米ドルへ拡大、CAGR 17.2％、高精細デジタル印刷と空間デザインの多様化が市場成長を加速 - Newscast.jp",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5OXU2MXluOHNSZ2F4NFNIUV9fOWpmNldtZmRhRnhYVlJxM2JyLXM5alROcS03bkxmU1dHLXBaUkRJNWRGWGQ2SHhnNHRwVmc?oc=5",
-    "source_name": "Newscast.jp",
-    "source_type": "keyword_search",
-    "categories": [
-      "space_design",
-      "architecture_interior"
-    ],
-    "summary": "日本デジタルプリント壁紙市場、2035年に42億8,700万米ドルへ拡大、CAGR 17.2％、高精細デジタル印刷と空間デザインの多様化が市場成長を加速 Newscast.jp",
-    "thumbnail_url": null,
-    "published_at": "2026-10-20T12:00:00+09:00",
-    "fetched_at": "2026-10-31T08:55:46.315210+09:00",
-    "matched_keywords": [
-      "商業施設 デザイン"
     ]
   },
   {
@@ -335,7 +335,7 @@
     "summary": "武蔵野大学／高校生空間デザインアイデアコンペ／最優秀に近藤康介さん 日刊建設工業新聞",
     "thumbnail_url": null,
     "published_at": "2026-10-20T06:03:32+09:00",
-    "fetched_at": "2026-10-31T08:55:45.446095+09:00",
+    "fetched_at": "2026-11-01T08:31:16.308985+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
