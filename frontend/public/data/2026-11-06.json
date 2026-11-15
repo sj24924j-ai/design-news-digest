@@ -63,7 +63,7 @@
     "summary": "福井県永平寺町、九頭竜川のほとりに広がる「ESHIKOTO」——200年以上にわたり、この地で酒造りを続けてきた黒龍酒造を擁する黒龍グループが、その風土と文化を伝えるために生み出した場所である。ここに新たに、フィンランド […]",
     "thumbnail_url": null,
     "published_at": "2026-11-06T15:32:31+09:00",
-    "fetched_at": "2026-11-14T09:56:48.122865+09:00",
+    "fetched_at": "2026-11-15T09:00:20.488966+09:00",
     "matched_keywords": []
   },
   {
@@ -79,7 +79,7 @@
     "summary": "写真提供：.ket bureau モスクワのオレグ・タバコフ劇場、通称「タバケルカ」のファサード改修計画を、.ket bureauが手がけた。同建物は、モスクワのガーデンリング北部に位置し、約1.5kmにわたって歩行者や […]",
     "thumbnail_url": null,
     "published_at": "2026-11-06T15:16:14+09:00",
-    "fetched_at": "2026-11-14T09:56:48.122883+09:00",
+    "fetched_at": "2026-11-15T09:00:20.488984+09:00",
     "matched_keywords": []
   },
   {
@@ -165,6 +165,23 @@
     "fetched_at": "2026-11-09T08:51:09.153496+09:00",
     "matched_keywords": [
       "空間デザイン"
+    ]
+  },
+  {
+    "id": "6fbe30dd99cbe262",
+    "title": "乃村工藝社が携わったプロジェクトが「2026年度グッドデザイン賞」を受賞 - 沖縄タイムス社",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00TnV0cGs4ZWZQRzZGVVJZUmdsTXpqSGlTN1RETnRNOXFhd0Y2akwtM2E2WWVsYUpLMDhDbmhPaVhZN2RXeUxIaWhtT0s5WXhkLThybVZIcnYtaUExMWc?oc=5",
+    "source_name": "沖縄タイムス社",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "乃村工藝社が携わったプロジェクトが「2026年度グッドデザイン賞」を受賞 沖縄タイムス社",
+    "thumbnail_url": null,
+    "published_at": "2026-11-06T11:37:37+09:00",
+    "fetched_at": "2026-11-15T09:00:23.493231+09:00",
+    "matched_keywords": [
+      "乃村工藝社"
     ]
   },
   {
