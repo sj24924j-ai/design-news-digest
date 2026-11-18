@@ -1,5 +1,74 @@
 [
   {
+    "id": "99deeb55e2751e99",
+    "title": "フエ市は、医療ツーリストやMICE（会議、報奨旅行、コンベンション、展示会）ツーリストの入場料を引き下げ、新たな交通ルートを活用する。 - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaE15Y20tdUpsM2tMWDBrdVdkQ3B3VUVyOElpWFpLSjFNajQ5cW5oVUVDaGhTOURwLVdKQnZHbC1wa3dLbFRsWk5IcGVRTGJ0a3dFWndHa2tvVzl6TklFcHRHYnJjVzVCM0xYS3BROU9TRXJIR3JXRkxWMXl3bmVtZ1FWQThMWjdYSUJnRTlRN3lnMkdUVXhQUlVhdmlqNHZyR2c?oc=5",
+    "source_name": "Vietnam.vn",
+    "source_type": "keyword_search",
+    "categories": [
+      "exhibition_expo"
+    ],
+    "summary": "フエ市は、医療ツーリストやMICE（会議、報奨旅行、コンベンション、展示会）ツーリストの入場料を引き下げ、新たな交通ルートを活用する。 Vietnam.vn",
+    "thumbnail_url": null,
+    "published_at": "2026-11-17T20:06:35+09:00",
+    "fetched_at": "2026-11-18T11:29:34.501614+09:00",
+    "matched_keywords": [
+      "MICE 展示会"
+    ]
+  },
+  {
+    "id": "cc7bb7c07844f6b5",
+    "title": "【特集：周年、どう活かす？】社員の個性で理念を伝える記念イベント 丹青社80周年 - イベスル",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0yUWdCR0NqR2NTWFdDZE9RNk1pWTVkZXJLd2pYUEZLRzBHM2o3dmhfbnFHWjkxdmFBQTNrMTVmTXBTVDNYUkMw?oc=5",
+    "source_name": "イベスル",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "【特集：周年、どう活かす？】社員の個性で理念を伝える記念イベント 丹青社80周年 イベスル",
+    "thumbnail_url": null,
+    "published_at": "2026-11-17T17:46:31+09:00",
+    "fetched_at": "2026-11-18T11:29:31.962474+09:00",
+    "matched_keywords": [
+      "丹青社"
+    ]
+  },
+  {
+    "id": "7968b7d04c150cc2",
+    "title": "編集部注目のブース・セッション - 株式会社MICE研究所",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LOFVVNldseDFzdWQ0R1p0VDdNOGpVWWk5bWMxWkhzSEZGYWlqU2VpRmw0SmFFSVFUVlNSYUFoT29JSTJwQUJlMlA1UUdVTzlOd0htUWRjSldKYjNHTzlJWEo5OA?oc=5",
+    "source_name": "株式会社MICE研究所",
+    "source_type": "keyword_search",
+    "categories": [
+      "exhibition_expo"
+    ],
+    "summary": "編集部注目のブース・セッション 株式会社MICE研究所",
+    "thumbnail_url": null,
+    "published_at": "2026-11-17T14:54:55+09:00",
+    "fetched_at": "2026-11-18T11:29:34.501568+09:00",
+    "matched_keywords": [
+      "MICE 展示会"
+    ]
+  },
+  {
+    "id": "66e4ddb2a43342aa",
+    "title": "東京藝術大学の学生が空間デザインを手がける。MUSASHI JAPAN、芸術と伝統の和包丁が融合する特別な店舗空間を展開 - Excite エキサイト",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYV3Z4RTdKUGszYW1ZejJVUlJNd25vSHIyQWJXaVlSRk4wYS10WXdFaW5aV0Ytenoxak94dE1TOWJnSjFvYWJrZ09kTjRYTzBpU3RxRHRzVFM2TDFLc1FBdnJSaEdScWVLdTZtQ3BOVXU0THJI?oc=5",
+    "source_name": "Excite エキサイト",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design",
+      "architecture_interior"
+    ],
+    "summary": "東京藝術大学の学生が空間デザインを手がける。MUSASHI JAPAN、芸術と伝統の和包丁が融合する特別な店舗空間を展開 Excite エキサイト",
+    "thumbnail_url": null,
+    "published_at": "2026-11-17T12:45:00+09:00",
+    "fetched_at": "2026-11-18T11:29:33.041253+09:00",
+    "matched_keywords": [
+      "商業施設 デザイン"
+    ]
+  },
+  {
     "id": "6b80e46b4fb0bf65",
     "title": "田井鐵工、新ブランド「Tai36」を発表。自動車部品のアルミダイカスト技術を包丁や家具へ展開",
     "url": "https://www.axismag.jp/posts/2026/11/729586.html",
@@ -12,7 +81,7 @@
     "summary": "兵庫県西脇市の田井鐵工は、自動車部品の製造で培ってきたアルミダイカスト技術を、暮らしの道具へと展開する新ブランド「Tai36（タイサーティシックス）」を発表した。第一弾として、三徳包丁用アルミハンドル「H/B（HAND […]",
     "thumbnail_url": null,
     "published_at": "2026-11-17T11:54:28+09:00",
-    "fetched_at": "2026-11-17T12:00:59.312212+09:00",
+    "fetched_at": "2026-11-18T11:29:28.681604+09:00",
     "matched_keywords": []
   },
   {
@@ -27,7 +96,7 @@
     "summary": "手描きから始まる空間デザイン｜バウハウス丸栄のVectorworks活用事例 デザイン情報サイト[JDN]",
     "thumbnail_url": null,
     "published_at": "2026-11-17T10:40:00+09:00",
-    "fetched_at": "2026-11-17T12:01:03.144255+09:00",
+    "fetched_at": "2026-11-18T11:29:32.401042+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
@@ -44,7 +113,7 @@
     "summary": "有限会社蟻田と土井 啓実他1者が株式会社乃村工藝社＜9716＞株式の変更報告書を提出 ｄメニューニュース",
     "thumbnail_url": null,
     "published_at": "2026-11-17T09:24:00+09:00",
-    "fetched_at": "2026-11-17T12:01:02.317080+09:00",
+    "fetched_at": "2026-11-18T11:29:31.553396+09:00",
     "matched_keywords": [
       "乃村工藝社"
     ]
@@ -61,7 +130,7 @@
     "summary": "有限会社乃村と乃村 洋子他1者が株式会社乃村工藝社＜9716＞株式の変更報告書を提出 ｄメニューニュース",
     "thumbnail_url": null,
     "published_at": "2026-11-17T09:11:00+09:00",
-    "fetched_at": "2026-11-17T12:01:02.316963+09:00",
+    "fetched_at": "2026-11-18T11:29:31.553251+09:00",
     "matched_keywords": [
       "乃村工藝社"
     ]
