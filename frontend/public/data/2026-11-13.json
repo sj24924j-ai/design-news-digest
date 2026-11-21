@@ -148,7 +148,7 @@
     "summary": "ヴィース美術館 Photo:Iwan Baan スイス・バーゼル近郊のバイエラー財団は、既存施設を拡張し、レンゾ・ピアノが設計した美術館と、ピーター・ズントーによる3つの新施設、さらに庭園や歴史的建築を一体化した新たな施 […]",
     "thumbnail_url": null,
     "published_at": "2026-11-13T12:30:00+09:00",
-    "fetched_at": "2026-11-20T10:49:30.711886+09:00",
+    "fetched_at": "2026-11-21T10:37:39.729364+09:00",
     "matched_keywords": []
   },
   {
@@ -164,7 +164,7 @@
     "summary": "©Chris Kallmyer 東京・渋谷のVacant/Centreで、アーティストのクリス・カルマイヤー（Chris Kallmyer）による日本初の作品展「Furniture Music」が、11月13日（金）から […]",
     "thumbnail_url": null,
     "published_at": "2026-11-13T11:32:53+09:00",
-    "fetched_at": "2026-11-20T10:49:30.711905+09:00",
+    "fetched_at": "2026-11-21T10:37:39.729393+09:00",
     "matched_keywords": []
   },
   {
@@ -197,6 +197,23 @@
     "thumbnail_url": null,
     "published_at": "2026-11-13T11:00:02+09:00",
     "fetched_at": "2026-11-17T12:01:03.144498+09:00",
+    "matched_keywords": [
+      "空間デザイン"
+    ]
+  },
+  {
+    "id": "5f23cb86cedf47b0",
+    "title": "ITOKI DESIGN HOUSE SHIGAが国際空間デザイン賞「FRAME Awards 2026」Showroom部門で年間最優秀賞「Winner of the Year」を受賞 - Koubo",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTcDBrNFpuUG5CMWJBT0hheXF2MVM2TWxoVDgxRHE2aHFDXzV5UnNDLTBaZXpVb3FPOU1QMlNhMWd6WlVOb2VMbmxZNWRMdFNNUlNZZ3lHQ2RfQ25YcFA0?oc=5",
+    "source_name": "Koubo",
+    "source_type": "keyword_search",
+    "categories": [
+      "space_design"
+    ],
+    "summary": "ITOKI DESIGN HOUSE SHIGAが国際空間デザイン賞「FRAME Awards 2026」Showroom部門で年間最優秀賞「Winner of the Year」を受賞 Koubo",
+    "thumbnail_url": null,
+    "published_at": "2026-11-13T11:00:00+09:00",
+    "fetched_at": "2026-11-21T10:37:44.361976+09:00",
     "matched_keywords": [
       "空間デザイン"
     ]
